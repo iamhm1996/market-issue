@@ -2,14 +2,80 @@
   "available": true,
   "items": [
     {
+      "id": "foodrecipe-aHR0cHM6Ly9mb29kcmVjaXBlLmNvLmtyL2xpZmUvdG9pbGV0LXRhbmstY2xlYW5pbmctdmluZWdhci1jaXRyaWMtYWNpZC8",
+      "source": "푸드레시피",
+      "tag": "곰팡이",
+      "title": "“물에 ‘이 가루’ 녹여 변기 물 탱크에 부어보세요”… 변기 더러워 지는 이유 따로 있었습니다",
+      "summary": "변기 물통의 누런 물때는 산성 재료인 백식초나 구연산수를 넣고 직접 문질러 닦아내는 것이 중요합니다. 배수되는 물까지 알뜰하게 재활용하여 변기 내부를 깨끗하게 관리하는 살림 노하우를 소개합니다.",
+      "date": "2026-08-18",
+      "category": "홈케어 & 위생/청소",
+      "engagement": "작성: 김혜은 기자",
+      "link": "https://foodrecipe.co.kr/life/toilet-tank-cleaning-vinegar-citric-acid/"
+    },
+    {
+      "id": "foodrecipe-aHR0cHM6Ly9mb29kcmVjaXBlLmNvLmtyL2tpdGNoZW4tdGlwcy9vbmlvbi1wZWVsLWNsZWFuaW5nLWJ1cm50LWdyZWFzZS1wb3RzLw",
+      "source": "푸드레시피",
+      "tag": "기름 때",
+      "title": "“냄비 바닥 탄 자국에 ‘이것’ 넣고 10분만 끓여보세요”… 손 안 대고 얼룩이 지워졌습니다",
+      "summary": "냄비 바닥에 잘 지워지지 않는 탄 자국과 기름때는 버려지는 양파 껍질을 넣고 끓여주면 손상 없이 깨끗하게 제거할 수 있습니다. 냄비 재질별 주의사항과 효과적인 천연 세척 팁을 확인해 보세요.",
+      "date": "2026-08-18",
+      "category": "주방용품 & 리빙 아이디어",
+      "engagement": "작성: 조은아 기자",
+      "link": "https://foodrecipe.co.kr/kitchen-tips/onion-peel-cleaning-burnt-grease-pots/"
+    },
+    {
+      "id": "foodrecipe-aHR0cHM6Ly9mb29kcmVjaXBlLmNvLmtyL2tpdGNoZW4tdGlwcy9rZWVwLXNhbHQtc3VnYXItc3BpY2VzLWZyb20tY2x1bXBpbmcv",
+      "source": "푸드레시피",
+      "tag": "고춧가루",
+      "title": "“고춧가루에 이쑤시개를 꽂아보세요”… 이 좋은 걸 왜 이제야 알았을까요",
+      "summary": "장마철마다 굳어버리는 소금, 설탕, 고춧가루의 서로 다른 원인을 알아보고, 올바른 보관법과 이쑤시개 활용 노하우로 주방 조미료를 산뜻하게 관리하는 방법을 안내합니다.",
+      "date": "2026-08-18",
+      "category": "주방용품 & 리빙 아이디어",
+      "engagement": "작성: 조은아 기자",
+      "link": "https://foodrecipe.co.kr/kitchen-tips/keep-salt-sugar-spices-from-clumping/"
+    },
+    {
+      "id": "foodrecipe-aHR0cHM6Ly9mb29kcmVjaXBlLmNvLmtyL3JlY2lwZS9haG4tc3VuZy1qYWUtY29sZC10b21hdG8tbm9vZGxlcy1yZWNpcGUv",
+      "source": "푸드레시피",
+      "tag": "음식레시피",
+      "title": "“토마토 그냥 먹지 말고 국수로 만들어 보세요”… 온 가족이 너무 맛있다며 박수 칩니다",
+      "summary": "안성재 셰프의 레시피를 바탕으로 시판 쯔유와 완숙 토마토를 활용해 여름철 입맛을 돋우는 초간단 냉 토마토국수 만드는 법을 소개합니다.",
+      "date": "2026-08-18",
+      "category": "주방용품 & 리빙 아이디어",
+      "engagement": "작성: 조은아 기자",
+      "link": "https://foodrecipe.co.kr/recipe/ahn-sung-jae-cold-tomato-noodles-recipe/"
+    },
+    {
+      "id": "foodrecipe-aHR0cHM6Ly9mb29kcmVjaXBlLmNvLmtyL3JlY2lwZS9rYWJvY2hhLXNxdWFzaC1zdGVhbWluZy1mbGVzaC1zaWRlLWRvd24v",
+      "source": "푸드레시피",
+      "tag": "음식레시피",
+      "title": "“단호박 찔 때 ‘이렇게’ 넣지 마세요”… 방향만 뒤집었을 뿐인데 포슬한 식감이 살아납니다",
+      "summary": "단호박을 찔 때 속살 방향만 아래로 바꿔도 한정식집처럼 포슬포슬한 식감을 만들 수 있습니다. 안전한 손질법부터 최적의 가열 시간, 영양을 높이는 섭취 팁까지 차근차근 정리해 드립니다.",
+      "date": "2026-08-18",
+      "category": "주방용품 & 리빙 아이디어",
+      "engagement": "작성: 조은아 기자",
+      "link": "https://foodrecipe.co.kr/recipe/kabocha-squash-steaming-flesh-side-down/"
+    },
+    {
+      "id": "foodrecipe-aHR0cHM6Ly9mb29kcmVjaXBlLmNvLmtyL25ld3MvZWdnLXNhZmV0eS1zdG9yYWdlLWNvb2tpbmctZ3VpZGVsaW5lcy8",
+      "source": "푸드레시피",
+      "tag": "냉장고",
+      "title": "“마트에서 달걀 고를 때 ‘이걸’ 확인하세요”… 대부분 가격만 보고 집었다가 손해 봅니다",
+      "summary": "신선하고 안전한 달걀을 위해 구매부터 보관, 조리까지 놓치기 쉬운 핵심 관리 팁을 소개합니다. 냉장고 위치 선택부터 가열 기준까지 안전한 식탁을 만드는 팁을 확인해 보세요.",
+      "date": "2026-08-18",
+      "category": "주방용품 & 리빙 아이디어",
+      "engagement": "작성: 조은아 기자",
+      "link": "https://foodrecipe.co.kr/news/egg-safety-storage-cooking-guidelines/"
+    },
+    {
       "id": "rss-aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vcnNzL2FydGljbGVzL0NCTWlVRUZWWDNseFRGQnZZbkV6VVRGc1lWcENkRFJLU1hvNWJGbHRMWGxqWm0xa2MxVTFXSEJXTmtsSFNXbEJVWEZNYUY5SlYxZGZUSFpLU205WmQwbEhlamhpUm5KZmNYTnNkV3A0V2s1a2QxTmg_b2M9NQ",
       "source": "구글뉴스",
-      "tag": "mk.co.kr",
+      "tag": "매일경제",
       "title": "MK Pick | 스너글 스파클 플러스 섬유유연제, 실내건조 만족도 94%",
-      "summary": "mk.co.kr에서 보도한 패브릭 & 의류 케어 관련 이슈입니다.",
+      "summary": "매일경제에서 보도한 패브릭 & 의류 케어 관련 이슈입니다.",
       "date": "2026-08-18",
       "category": "패브릭 & 의류 케어",
-      "engagement": "출처: mk.co.kr",
+      "engagement": "출처: 매일경제",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBvYnEzUTFsYVpCdDRKSXo5bFltLXljZm1kc1U1WHBWNklHSWlBUXFMaF9JV1dfTHZKSm9Zd0lHejhiRnJfcXNsdWp4Wk5kd1Nh?oc=5"
     },
     {
@@ -134,17 +200,6 @@
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBvTFhyZ0ZtVHNoVldnb1JpN3BmNEZjRHhnV2VhYUxNMkhLSFgxUjQ2SFYyZ1V5ZVJLY05jQVR6UW5qbThRM0Q0UndSTm1yQWQwZ0lScUZLTHI1cXhtOFlOX010cWtkRk0?oc=5"
     },
     {
-      "id": "rss-aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vcnNzL2FydGljbGVzL0NCTWlZa0ZWWDNseFRFMHpTME4xYWpaRlRDMVlabGhSTXpkRGJtcERialpEVHpkYVIwcGFZbmRHUjNkeWRrUjJka2M1YmxJMk5IUTVORXhxVmpOUFFsQmxOazFvWWxOaVJHaHRUSHBQVG1WWk1UVnVZMEZPUTBkUGVGbHNjRFpITW5aV2RVMW4_b2M9NQ",
-      "source": "구글뉴스",
-      "tag": "미주중앙일보",
-      "title": "얼굴 ‘이 부위’ 문지르자 뇌 청소…치매 막는 기적의 마사지",
-      "summary": "미주중앙일보에서 보도한 홈케어 & 위생/청소 관련 이슈입니다.",
-      "date": "2026-08-18",
-      "category": "홈케어 & 위생/청소",
-      "engagement": "출처: 미주중앙일보",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0zS0N1ajZFTC1YZlhRMzdDbmpDbjZDTzdaR0paYndGR3dydkR2dkc5blI2NHQ5NExqVjNPQlBlNk1oYlNiRGhtTHpPTmVZMTVuY0FOQ0dPeFlscDZHMnZWdU1n?oc=5"
-    },
-    {
       "id": "rss-aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vcnNzL2FydGljbGVzL0NCTWlUMEZWWDNseFRGQjNkMVF4WVcxaFYwdEtTR3c1U3pCQ1NYRjNRVGRsVFRWU2JXaFRkVWh3VW1SRWNHMUVkMlpTZW1SUk5YY3RiR05IT0ROZlJrbHhhbFZzY0V3Mk9YbE5aVk5GZWxrdFh6Zz9vYz01",
       "source": "구글뉴스",
       "tag": "v.daum.net",
@@ -154,6 +209,17 @@
       "category": "홈케어 & 위생/청소",
       "engagement": "출처: v.daum.net",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB3d1QxYW1hV0tKSGw5SzBCSXF3QTdlTTVSbWhTdUhwUmREcG1Ed2ZSemRRNXctbGNHODNfRklxalVscEw2OXlNZVNFelktXzg?oc=5"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vcnNzL2FydGljbGVzL0NCTWlZa0ZWWDNseFRFMHpTME4xYWpaRlRDMVlabGhSTXpkRGJtcERialpEVHpkYVIwcGFZbmRHUjNkeWRrUjJka2M1YmxJMk5IUTVORXhxVmpOUFFsQmxOazFvWWxOaVJHaHRUSHBQVG1WWk1UVnVZMEZPUTBkUGVGbHNjRFpITW5aV2RVMW4_b2M9NQ",
+      "source": "구글뉴스",
+      "tag": "미주중앙일보",
+      "title": "얼굴 ‘이 부위’ 문지르자 뇌 청소…치매 막는 기적의 마사지",
+      "summary": "미주중앙일보에서 보도한 홈케어 & 위생/청소 관련 이슈입니다.",
+      "date": "2026-08-18",
+      "category": "홈케어 & 위생/청소",
+      "engagement": "출처: 미주중앙일보",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0zS0N1ajZFTC1YZlhRMzdDbmpDbjZDTzdaR0paYndGR3dydkR2dkc5blI2NHQ5NExqVjNPQlBlNk1oYlNiRGhtTHpPTmVZMTVuY0FOQ0dPeFlscDZHMnZWdU1n?oc=5"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vcnNzL2FydGljbGVzL0NCTWlaRUZWWDNseFRFMXhYM0pCZG5ZelZHeDZNREpQTUZaT0xVSmlXRmRtVTNoQ1IxRTNOR2RZYlRKaFpITTJXRTlwTlhWT2NWaERheTFSWVdkS01YbFZPR2t0TkVkU1J6UTFlSFZCZW1zNVMwODVVelJDVm1JMU4xQXhTa0ZDWVdjNVVFcDBaVFE_b2M9NQ",
@@ -191,12 +257,12 @@
     {
       "id": "rss-aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vcnNzL2FydGljbGVzL0NCTWlZRUZWWDNseFRGQmZXR2t5Ylc5cFgzQmxabWhyZUdsc1psYzRUbE5uUnpKNFZrWnhWRWxhTFhwTE5tVlVOM0pKYUMweE1VaENUWGxUU210SVMyc3lZbGxKVUZwTVMzaEJlbTlKTmtRek16ZGlOR2x1ZG01V2RWaFJUVVpCT1VoVlVkSUJlRUZWWDNseFRFNWpWVzFMT0hKSWNHSXRaMjFwVFdsWlJsZHpiVWxtY1ZjdFpTMXRlRlZCY21oME1FZFZaREJqT1RWYWF6TnhSM0kyZDBKR1gxUTVNVlJqUkhsYVFYcDZWSFZmVWxaVmN6bDRSVTlvWVZSUFl6RnpZa2RCU1Y5SGEwRXdkR0pDUmtWMlYyaDZlSGRZUW5vMVZ6TmlZelo1Y2c_b2M9NQ",
       "source": "구글뉴스",
-      "tag": "뉴시스",
+      "tag": "newsis.com",
       "title": "가습기살균 피해자들, 광화문 조문 시작…시와 '빈소 설치' 갈등도",
-      "summary": "뉴시스에서 보도한 홈케어 & 위생/청소 관련 이슈입니다.",
+      "summary": "newsis.com에서 보도한 홈케어 & 위생/청소 관련 이슈입니다.",
       "date": "2026-08-18",
       "category": "홈케어 & 위생/청소",
-      "engagement": "출처: 뉴시스",
+      "engagement": "출처: newsis.com",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBfWGkybW9pX3BlZmhreGlsZlc4TlNnRzJ4VkZxVElaLXpLNmVUN3JJaC0xMUhCTXlTSmtIS2syYllJUFpMS3hBem9JNkQzMzdiNGludm5WdVhRTUZBOUhVUdIBeEFVX3lxTE5jVW1LOHJIcGItZ21pTWlZRldzbUlmcVctZS1teFVBcmh0MEdVZDBjOTVaazNxR3I2d0JGX1Q5MVRjRHlaQXp6VHVfUlZVczl4RU9oYVRPYzFzYkdBSV9Ha0EwdGJCRkV2V2h6eHdYQno1VzNiYzZ5cg?oc=5"
     },
     {
@@ -334,12 +400,12 @@
     {
       "id": "rss-aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vcnNzL2FydGljbGVzL0NCTWlhRUZWWDNseFRFOUZNa0l0UTBaQmF6bEdWMjl4UkV4Tk5YTk9hM0ZNYWtSMWVraGxWV3hNVG01ck1VaG9PVE5IWkZwaVRHTTBjamhFUVdodmNUYzJTVWMyTWxKa1ZWUXhNR281WTB0TFVWRkxPREl4WldObGJVSTBNVU0yU1hoWmMybHFWSEJOVW5sWj9vYz01",
       "source": "구글뉴스",
-      "tag": "공감신문",
+      "tag": "gokorea.kr",
       "title": "윌로펌프, 음식물처리기 ‘디퍼’ 9월 출시",
-      "summary": "공감신문에서 보도한 주방용품 & 리빙 아이디어 관련 이슈입니다.",
+      "summary": "gokorea.kr에서 보도한 주방용품 & 리빙 아이디어 관련 이슈입니다.",
       "date": "2026-08-18",
       "category": "주방용품 & 리빙 아이디어",
-      "engagement": "출처: 공감신문",
+      "engagement": "출처: gokorea.kr",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9FMkItQ0ZBazlGV29xRExNNXNOa3FMakR1ekhlVWxMTm5rMUhoOTNHZFpiTGM0cjhEQWhvcTc2SUc2MlJkVVQxMGo5Y0tLUVFLODIxZWNlbUI0MUM2SXhZc2lqVHBNUnlZ?oc=5"
     },
     {
@@ -356,23 +422,23 @@
     {
       "id": "rss-aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vcnNzL2FydGljbGVzL0NCTWliRUZWWDNseFRGQTVaMWhYYWpWSlZXOXRNWHBXUVZOclozRmhhbW95YWxkUlNHbDJPVVI0TjJaa1pFMUNTRUZ0VFhGRlEweE1NRVJ4Ym1sd1gxQk5PVVpqY2sxMWIzaFZhalZXWjJNNWFsRkNiVE5pTTBSR09YSkxTRzVwT1VwdmRYRjNUVzVqVVhOemJXZDZjOUlCYjBGVlgzbHhURkJOVm5aNlJVdDFXbkZ6YlVGTFRFaEhlVjltTFd4c2EwbHFWbEp1V0dKMExWSlJTR3hFVlVGNFVGbE1VbUprT1Y5VmVGaE5SRkJFYjNGTmEyVk5aMDVVWjE5TGNEVkJUakZCVjNsNWJUSlBRbVJIUTBWcU0wTndZM054V2tadWJsRkJiMHBLYlRJMldRP29jPTU",
       "source": "구글뉴스",
-      "tag": "hansbiz.co.kr",
+      "tag": "한스경제",
       "title": "스마트카라, 음식물처리기 보상판매 최대 55% 할인",
-      "summary": "hansbiz.co.kr에서 보도한 주방용품 & 리빙 아이디어 관련 이슈입니다.",
+      "summary": "한스경제에서 보도한 주방용품 & 리빙 아이디어 관련 이슈입니다.",
       "date": "2026-08-18",
       "category": "주방용품 & 리빙 아이디어",
-      "engagement": "출처: hansbiz.co.kr",
+      "engagement": "출처: 한스경제",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA5Z1hXajVJVW9tMXpWQVNrZ3FhamoyaldRSGl2OUR4N2ZkZE1CSEFtTXFFQ0xMMERxbmlwX1BNOUZjck11b3hVajVWZ2M5alFCbTNiM0RGOXJLSG5pOUpvdXF3TW5jUXNzbWd6c9IBb0FVX3lxTFBNVnZ6RUt1WnFzbUFLTEhHeV9mLWxsa0lqVlJuWGJ0LVJRSGxEVUF4UFlMUmJkOV9VeFhNRFBEb3FNa2VNZ05UZ19LcDVBTjFBV3l5bTJPQmRHQ0VqM0NwY3NxWkZublFBb0pKbTI2WQ?oc=5"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vcnNzL2FydGljbGVzL0NCTWlpQUZCVlY5NWNVeE9UWG8xU2twc2JGVlBRVWhyTUhCV1gxcGpkVkJKUWpRd1RWWkxObTE0WWt0c09HSm5ja1JoZDBOb1luUlphVmhHTkZNMlgyeDNlSE0xVW5rd05WVTVkRVZDWVhGTlptdERkblJzTVVWQ1luZENObHBaZEVZMVRIWkdWemswYTI5NVEwUkZWRmc0TWxOVVJGSlRaR05HVDJSNE1XTXdjSFpRU3prMk5IQTVaakJqP29jPTU",
       "source": "구글뉴스",
-      "tag": "chosun.com",
+      "tag": "조선일보",
       "title": "[리빙포인트] 프라이팬 정리에 책꽂이",
-      "summary": "chosun.com에서 보도한 라이프스타일 트렌드 & 팝업 관련 이슈입니다.",
+      "summary": "조선일보에서 보도한 라이프스타일 트렌드 & 팝업 관련 이슈입니다.",
       "date": "2026-08-18",
       "category": "라이프스타일 트렌드 & 팝업",
-      "engagement": "출처: chosun.com",
+      "engagement": "출처: 조선일보",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTXo1SkpsbFVPQUhrMHBWX1pjdVBJQjQwTVZLNm14YktsOGJnckRhd0NoYnRZaVhGNFM2X2x3eHM1UnkwNVU5dEVCYXFNZmtDdnRsMUVCYndCNlpZdEY1THZGVzk0a295Q0RFVFg4MlNURFJTZGNGT2R4MWMwcHZQSzk2NHA5ZjBj?oc=5"
     },
     {
@@ -486,6 +552,17 @@
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1DUWlwWTVJczVHN2RaT0h5eFZockVUS2JiMmdJMGVIQzFGUkQ4cENOWHdub081Y1p1eVdrYU9zZkRKeGhSaVRIaWZZeHRZeGJ3WmVTbG1iZndHV0VrbHphaW9FVVJxeC1CMk1QTQ?oc=5"
     },
     {
+      "id": "rss-aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vcnNzL2FydGljbGVzL0NCTWlYRUZWWDNseFRGQnBRbmx3WTE5cVZIbGFjbTEwYkRGUWMxSkRkV2hZVlVwcVpHSnhkVVJZVFV0aE1sVkdUVWxzWVZveVFYZE1UbEI1Vkc5Q1psRmpWWGt3YjNWaGVHcENVMFZEYWxab01GRjFTbFJoVDA5UGVrVkhZV2gxP29jPTU",
+      "source": "구글뉴스",
+      "tag": "뉴스핌",
+      "title": "티켓투더문, 서울역 팝업스토어 운영 시작",
+      "summary": "뉴스핌에서 보도한 라이프스타일 트렌드 & 팝업 관련 이슈입니다.",
+      "date": "2026-08-18",
+      "category": "라이프스타일 트렌드 & 팝업",
+      "engagement": "출처: 뉴스핌",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBpQnlwY19qVHlacm10bDFQc1JDdWhYVUpqZGJxdURYTUthMlVGTUlsYVoyQXdMTlB5VG9CZlFjVXkwb3VheGpCU0VDalZoMFF1SlRhT09PekVHYWh1?oc=5"
+    },
+    {
       "id": "rss-aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vcnNzL2FydGljbGVzL0NCTWlhMEZWWDNseFRFMWpUVmQ1WlRWVk5sQTFNR05OYVdJMFdsaDFTa1ZwTkZrelJUYzFlVTgxTTNwT1F6SnFja3RET1RCMU9XdHBTRFJJYkdwNllubDZjazh4Ym5WNlpHc3dTMDFoU0dGcVowOUNNR1Y0T1dGamFIWnVUMkk1VTFCSU1FcFdWVWN0Wm14M1NsSlY_b2M9NQ",
       "source": "구글뉴스",
       "tag": "BBS불교방송",
@@ -508,28 +585,6 @@
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBnbmpsMU1VVzc4MnJQdWZBNkNhVWJpUU5YcFEtZ2E3SEVuaXVwMk9QMk1wOVBTRFktVGQ2MC1Ud2dNeHdlMHdLUkl1cHdRZWl0RnRuOGZXTlBobk1M?oc=5"
     },
     {
-      "id": "rss-aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vcnNzL2FydGljbGVzL0NCTWlYRUZWWDNseFRFNW1UbFJQWjNZM1ZXTkNTa1pWYzFoV1ZuSkpkR2hZZEhKMVZsbExUbEJsWnpaRVdqZE5UVVEzZEhaR1FtcDJWSGRZYm5sSFN6Y3RhbVZqVjJ4c09VOWFTWEZzVTI1NlIwVjRUVzVYZFRCa1NIcGpaelJWP29jPTU",
-      "source": "구글뉴스",
-      "tag": "뉴스핌",
-      "title": "소금빵 전문 시오팡야, 롯데백화점 전주점 팝업스토어 오픈",
-      "summary": "뉴스핌에서 보도한 라이프스타일 트렌드 & 팝업 관련 이슈입니다.",
-      "date": "2026-08-18",
-      "category": "라이프스타일 트렌드 & 팝업",
-      "engagement": "출처: 뉴스핌",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5mTlRPZ3Y3VWNCSkZVc1hWVnJJdGhYdHJ1VllLTlBlZzZEWjdNTUQ3dHZGQmp2VHdYbnlHSzctamVjV2xsOU9aSXFsU256R0V4TW5XdTBkSHpjZzRV?oc=5"
-    },
-    {
-      "id": "rss-aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vcnNzL2FydGljbGVzL0NCTWlYRUZWWDNseFRGQnBRbmx3WTE5cVZIbGFjbTEwYkRGUWMxSkRkV2hZVlVwcVpHSnhkVVJZVFV0aE1sVkdUVWxzWVZveVFYZE1UbEI1Vkc5Q1psRmpWWGt3YjNWaGVHcENVMFZEYWxab01GRjFTbFJoVDA5UGVrVkhZV2gxP29jPTU",
-      "source": "구글뉴스",
-      "tag": "뉴스핌",
-      "title": "티켓투더문, 서울역 팝업스토어 운영 시작",
-      "summary": "뉴스핌에서 보도한 라이프스타일 트렌드 & 팝업 관련 이슈입니다.",
-      "date": "2026-08-18",
-      "category": "라이프스타일 트렌드 & 팝업",
-      "engagement": "출처: 뉴스핌",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBpQnlwY19qVHlacm10bDFQc1JDdWhYVUpqZGJxdURYTUthMlVGTUlsYVoyQXdMTlB5VG9CZlFjVXkwb3VheGpCU0VDalZoMFF1SlRhT09PekVHYWh1?oc=5"
-    },
-    {
       "id": "rss-aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vcnNzL2FydGljbGVzL0NCTWlYRUZWWDNseFRFOVViSEIwWWxSUFluaGFTWEl4Um5kTk5VOW1NRXhQV2t4WmVtdEZNM2hrUlhkUlQzVjBNa0V3T1dOQ1dGTmthbEJOWVZVd2VESk5VVlIxYzBGV05GbE1XRVJYWW1SUlVqZFlUaTF3WVRSd1oxcEJhazV0P29jPTU",
       "source": "구글뉴스",
       "tag": "뉴스핌",
@@ -541,15 +596,15 @@
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9UbHB0YlRPYnhaSXIxRndNNU9mMExPWkxZemtFM3hkRXdRT3V0MkEwOWNCWFNkalBNYVUweDJNUVR1c0FWNFlMWERXYmRRUjdYTi1wYTRwZ1pBak5t?oc=5"
     },
     {
-      "id": "rss-aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vcnNzL2FydGljbGVzL0NCTWlZRUZWWDNseFRGQjNNRTlGVUVoSk5URjRjR0Y0UVZjMVFWWnRVMTlqTW1aaWFFRkhSVkJ5ZEhWRmREVnZlR0pDTlhwQ00zUkNlbnBOTjBseWJsVm9ZbFZRVFhKc2NYZDNMV1l4TW0xdWVFWkRlSFpWU1ZaMFUzZG9NWGRKYmtrelV3P29jPTU",
+      "id": "rss-aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vcnNzL2FydGljbGVzL0NCTWlYRUZWWDNseFRFNW1UbFJQWjNZM1ZXTkNTa1pWYzFoV1ZuSkpkR2hZZEhKMVZsbExUbEJsWnpaRVdqZE5UVVEzZEhaR1FtcDJWSGRZYm5sSFN6Y3RhbVZqVjJ4c09VOWFTWEZzVTI1NlIwVjRUVzVYZFRCa1NIcGpaelJWP29jPTU",
       "source": "구글뉴스",
-      "tag": "마이데일리",
-      "title": "제나벨, 부산 광안리서 팝업스토어 오픈...체험 공간 확대",
-      "summary": "마이데일리에서 보도한 라이프스타일 트렌드 & 팝업 관련 이슈입니다.",
+      "tag": "뉴스핌",
+      "title": "소금빵 전문 시오팡야, 롯데백화점 전주점 팝업스토어 오픈",
+      "summary": "뉴스핌에서 보도한 라이프스타일 트렌드 & 팝업 관련 이슈입니다.",
       "date": "2026-08-18",
       "category": "라이프스타일 트렌드 & 팝업",
-      "engagement": "출처: 마이데일리",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB3ME9FUEhJNTF4cGF4QVc1QVZtU19jMmZiaEFHRVBydHVFdDVveGJCNXpCM3RCenpNN0lyblVoYlVQTXJscXd3LWYxMm1ueEZDeHZVSVZ0U3doMXdJbkkzUw?oc=5"
+      "engagement": "출처: 뉴스핌",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5mTlRPZ3Y3VWNCSkZVc1hWVnJJdGhYdHJ1VllLTlBlZzZEWjdNTUQ3dHZGQmp2VHdYbnlHSzctamVjV2xsOU9aSXFsU256R0V4TW5XdTBkSHpjZzRV?oc=5"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vcnNzL2FydGljbGVzL0NCTWliRUZWWDNseFRFMDJkR281UjBKWGRrWjVSbGhWVTNKR1YzVkJNR2x2UWxZNWJWaGlSMGhYUW1KWGRsZEpOa3cwVFVWRVUyVnZabEZJZVVreVFWaFhZVEJ1TTFkR1pESTVVVWRRVDB3eU1XWXlUa1JPTUZoclVraHFjblZWYkhWdmJIRm5aRkpZYVZObVNsOVlSQT9vYz01",
@@ -565,12 +620,12 @@
     {
       "id": "rss-aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vcnNzL2FydGljbGVzL0NCTWljRUZWWDNseFRFNUlTM0p3UWxBeU9ERnNkM1pYV1ZkT1FVdFRjMHRRZUc1V01qSmFTWEk1UTFWQ2FsVnBiRmQ1T0hac1V6QXhibWhwZUU1QlN6RlVSMHc0WkVvNGVuTmpiVEZRUjNoNVNrcFFTMHRXT1RSU2RXcDZXV0puZG5WMllXbHhXbVp6TTJGelpUWmZPR1ZGVWtnP29jPTU",
       "source": "구글뉴스",
-      "tag": "kr.investing.com",
+      "tag": "Investing.com 한국어",
       "title": "텐 라이프스타일 그룹, 매튜 린지 비상임 이사 선임",
-      "summary": "kr.investing.com에서 보도한 라이프스타일 트렌드 & 팝업 관련 이슈입니다.",
+      "summary": "Investing.com 한국어에서 보도한 라이프스타일 트렌드 & 팝업 관련 이슈입니다.",
       "date": "2026-08-18",
       "category": "라이프스타일 트렌드 & 팝업",
-      "engagement": "출처: kr.investing.com",
+      "engagement": "출처: Investing.com 한국어",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5IS3JwQlAyODFsd3ZXWVdOQUtTc0tQeG5WMjJaSXI5Q1VCalVpbFd5OHZsUzAxbmhpeE5BSzFUR0w4ZEo4enNjbTFQR3h5SkpQS0tWOTRSdWp6WWJndnV2YWlxWmZzM2FzZTZfOGVFUkg?oc=5"
     },
     {
@@ -583,17 +638,6 @@
       "category": "라이프스타일 트렌드 & 팝업",
       "engagement": "출처: v.daum.net",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE43ck5JbFJkdVgtUEYtSmUtRWJoNGdnTG05bFpPUVNWSzV4c0ZUeV90YWxpbVZEZGctMmhjcmsxeU9kUnA1YTFFZHpmakpqUW8?oc=5"
-    },
-    {
-      "id": "rss-aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vcnNzL2FydGljbGVzL0NCTWllRUZWWDNseFRFMWpXRU5hV21oU1NGOUxNMFJYUnpSVmNsZGlTVVZXWmtoQ2RuQXdTbDlaU0c1WlVWSTJiVE5pV0VJdGVGSmhNVGhsWlV0TGQwMHdkWHBvZVhkVWFscHphMGxXUm14TVNXOTVORXByU3pZMWRGOVVkM1Y1Y1RoaGIxZzFaVzlqYkdka1EzWlFZbGRhV0ZOcGJYWjZiRkJOWlE_b2M9NQ",
-      "source": "구글뉴스",
-      "tag": "로이슈",
-      "title": "29CM, DDP디자인페어에 국내 홈·라이프스타일 브랜드 80여곳 참여",
-      "summary": "로이슈에서 보도한 라이프스타일 트렌드 & 팝업 관련 이슈입니다.",
-      "date": "2026-08-18",
-      "category": "라이프스타일 트렌드 & 팝업",
-      "engagement": "출처: 로이슈",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1jWENaWmhSSF9LM0RXRzRVcldiSUVWZkhCdnAwSl9ZSG5ZUVI2bTNiWEIteFJhMThlZUtLd00wdXpoeXdUalpza0lWRmxMSW95NEprSzY1dF9Ud3V5cThhb1g1ZW9jbGdkQ3ZQYldaWFNpbXZ6bFBNZQ?oc=5"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vcnNzL2FydGljbGVzL0NCTWljRUZWWDNseFRFMVlUazlHWWxSdFMxbEJTWEZPVkVKNlpqQmhTbWxoVVVKalRVTjZUa0k1Y0ZCNFRsZDBXRWx6Ums5RFRrRXhhVjh4UTFWaU5VeExNVXBTY25SMFdIZExZVGhvV2xKUU16SnNlR0pWTTA5UU9GbGxUSEUwVW1GSk9HMWtURlpoUjFKWmNuQnJWbVJzWWtNP29jPTU",
@@ -640,6 +684,17 @@
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB0cFZhNm5XYnVfWkszMkNyMUpQTHZhQWxhYkNLbHc4MG05aFJvMWtCcVJpMUx0dTJOVjJBNTVhdHFHMDhKV2QtY1VnREJNaGVDTWxGZkFXZS1VUTNFLW8zVmwzdWNEQXNhQVhJ?oc=5"
     },
     {
+      "id": "rss-aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vcnNzL2FydGljbGVzL0NCTWlja0ZWWDNseFRFMHpWWFE0VDJwclRXVlhTQzFWWjFwR1dYQm9ZekpCWlhaZlkyTXRiRFZ4YkhOMWMxSXlkVEYzZFZCWFluUjRXR1pqTUhveFRuWmtiVE5mWjAxWWFDMVVVMEp2ZUc5NWRsSnpkRTlrTkVjNE1HUklaMlUxTWxWeE9Ga3hRbkZLWkhrdGEzTTFiVEZvUTBFeGR3P29jPTU",
+      "source": "구글뉴스",
+      "tag": "에너지신문",
+      "title": "생활용품 2026년 8월 브랜드평판...다이소, 쿠팡, 이마트 順",
+      "summary": "에너지신문에서 보도한 라이프스타일 트렌드 & 팝업 관련 이슈입니다.",
+      "date": "2026-08-18",
+      "category": "라이프스타일 트렌드 & 팝업",
+      "engagement": "출처: 에너지신문",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE0zVXQ4T2prTWVXSC1VZ1pGWXBoYzJBZXZfY2MtbDVxbHN1c1IydTF3dVBXYnR4WGZjMHoxTnZkbTNfZ01YaC1UU0JveG95dlJzdE9kNEc4MGRIZ2U1MlVxOFkxQnFKZHkta3M1bTFoQ0Exdw?oc=5"
+    },
+    {
       "id": "rss-aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vcnNzL2FydGljbGVzL0NCTWloZ0ZCVlY5NWNVeE5hbGw0YWs1Q2R6bGpSM2hsWWtwSGRWZDRZVTlEU0hSVWVIUmxkVVZEY0ZwVFFUZDZZbEZHY1V0VVIwTkpjMnRzYW1jeGFGcFlUbEZQYUVoZlZrZFNhWEF0YlRSRlEwazNjRTVxUjNwM1UyTjJXWEJhUWkxVldWVjZVazFWVlcxUVpuWm1VWEYwUkhOUU1EVk5jR2czWVdsdFdUTlhabEZFVkRWbWIzZDNkOUlCYkVGVlgzbHhURTlVY3pOV1NrcGZZbk0yYWt4RFpWUkZZV1V5ZWsxM2JGUXhOa0YxUTFoNFdXUnJjM1ZRZG1WalIwTllVM04zVlhkTGFtNUVORFkzYTJwdlFuWk9lVEJrWWtsUVFYbzBlVnBQVmpkT2RGZHZRVVpZZW1Kc2IxRlRRVkZtZEZodGJqUmtNRFZzT0E_b2M9NQ",
       "source": "구글뉴스",
       "tag": "국민일보",
@@ -651,15 +706,15 @@
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNall4ak5CdzljR3hlYkpHdVd4YU9DSHRUeHRldUVDcFpTQTd6YlFGcUtUR0NJc2tsamcxaFpYTlFPaEhfVkdSaXAtbTRFQ0k3cE5qR3p3U2N2WXBaQi1VWVV6Uk1VVW1QZnZmUXF0RHNQMDVNcGg3YWltWTNXZlFEVDVmb3d3d9IBbEFVX3lxTE9UczNWSkpfYnM2akxDZVRFYWUyek13bFQxNkF1Q1h4WWRrc3VQdmVjR0NYU3N3VXdLam5ENDY3a2pvQnZOeTBkYklQQXo0eVpPVjdOdFdvQUZYemJsb1FTQVFmdFhtbjRkMDVsOA?oc=5"
     },
     {
-      "id": "rss-aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vcnNzL2FydGljbGVzL0NCTWlja0ZWWDNseFRFMHpWWFE0VDJwclRXVlhTQzFWWjFwR1dYQm9ZekpCWlhaZlkyTXRiRFZ4YkhOMWMxSXlkVEYzZFZCWFluUjRXR1pqTUhveFRuWmtiVE5mWjAxWWFDMVVVMEp2ZUc5NWRsSnpkRTlrTkVjNE1HUklaMlUxTWxWeE9Ga3hRbkZLWkhrdGEzTTFiVEZvUTBFeGR3P29jPTU",
+      "id": "rss-aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vcnNzL2FydGljbGVzL0NCTWllRUZWWDNseFRFMWpXRU5hV21oU1NGOUxNMFJYUnpSVmNsZGlTVVZXWmtoQ2RuQXdTbDlaU0c1WlVWSTJiVE5pV0VJdGVGSmhNVGhsWlV0TGQwMHdkWHBvZVhkVWFscHphMGxXUm14TVNXOTVORXByU3pZMWRGOVVkM1Y1Y1RoaGIxZzFaVzlqYkdka1EzWlFZbGRhV0ZOcGJYWjZiRkJOWlE_b2M9NQ",
       "source": "구글뉴스",
-      "tag": "에너지신문",
-      "title": "생활용품 2026년 8월 브랜드평판...다이소, 쿠팡, 이마트 順",
-      "summary": "에너지신문에서 보도한 라이프스타일 트렌드 & 팝업 관련 이슈입니다.",
+      "tag": "로이슈",
+      "title": "29CM, DDP디자인페어에 국내 홈·라이프스타일 브랜드 80여곳 참여",
+      "summary": "로이슈에서 보도한 라이프스타일 트렌드 & 팝업 관련 이슈입니다.",
       "date": "2026-08-18",
       "category": "라이프스타일 트렌드 & 팝업",
-      "engagement": "출처: 에너지신문",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE0zVXQ4T2prTWVXSC1VZ1pGWXBoYzJBZXZfY2MtbDVxbHN1c1IydTF3dVBXYnR4WGZjMHoxTnZkbTNfZ01YaC1UU0JveG95dlJzdE9kNEc4MGRIZ2U1MlVxOFkxQnFKZHkta3M1bTFoQ0Exdw?oc=5"
+      "engagement": "출처: 로이슈",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1jWENaWmhSSF9LM0RXRzRVcldiSUVWZkhCdnAwSl9ZSG5ZUVI2bTNiWEIteFJhMThlZUtLd00wdXpoeXdUalpza0lWRmxMSW95NEprSzY1dF9Ud3V5cThhb1g1ZW9jbGdkQ3ZQYldaWFNpbXZ6bFBNZQ?oc=5"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vcnNzL2FydGljbGVzL0NCTWlhRUZWWDNseFRFNUpNVzVzUTBwdWFrSTRaa2RYZGpoRVNrRnFPVlpxTVVGNmVtTmFWbEowVlY5MWJWbGFORmRQWkZSWVl6Skhja2xRYkRSbE5sZGFWRlpXZDNwNk5FeG9aREJzTWw5bGVtNDNjMWRHY2psc1kzbGhNMDQwWW1oT2NGbzBVblJqUVRsQz9vYz01",
@@ -675,12 +730,12 @@
     {
       "id": "rss-aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vcnNzL2FydGljbGVzL0NCTWlia0ZWWDNseFRFNXZRa1pOVW0xVGJGTldiWGhCWVVGdlJYTnVZMGhUVkdSTlNrc3dkMXBqUVZwdlYwOWhVVTFsU0d4MFgyUlRORGg0WkhoRUxYcEZka3MzVmpaRmVFaDZTR3BYYW1KaldVdFVNR3cwWjJkVU1ESnViM3BsYzJ0TFluTXdOVFZaV21ocGIwVjBXVkpCMGdGelFWVmZlWEZNVDJwd2VFWmtiM2htVGxabFEwRktNMVo0ZVRaelMzTlpUbUUyYkhwVlJFSjVWbm8xYTBFMWVHMWplV1EzYm5GR1VWazFVR1pZY1hZMGJWRXlWRXRxWnpoQldEZ3hXVEpLTmtZemNucFlOM2R5TmtZNFQyWk1aRXRMVlZCNmJYcElSRmxDU25GcGFHRnFTRU5oUVE_b2M9NQ",
       "source": "구글뉴스",
-      "tag": "한국일보",
+      "tag": "hankookilbo.com",
       "title": "칠곡 농특산물, 롯데백화점 대구점서... '지역상생 팝업스토어' 운영",
-      "summary": "한국일보에서 보도한 라이프스타일 트렌드 & 팝업 관련 이슈입니다.",
+      "summary": "hankookilbo.com에서 보도한 라이프스타일 트렌드 & 팝업 관련 이슈입니다.",
       "date": "2026-08-18",
       "category": "라이프스타일 트렌드 & 팝업",
-      "engagement": "출처: 한국일보",
+      "engagement": "출처: hankookilbo.com",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5vQkZNUm1TbFNWbXhBYUFvRXNuY0hTVGRNSkswd1pjQVpvV09hUU1lSGx0X2RTNDh4ZHhELXpFdks3VjZFeEh6SGpXamJjWUtUMGw0Z2dUMDJub3plc2tLYnMwNTVZWmhpb0V0WVJB0gFzQVVfeXFMT2pweEZkb3hmTlZlQ0FKM1Z4eTZzS3NZTmE2bHpVREJ5Vno1a0E1eG1jeWQ3bnFGUVk1UGZYcXY0bVEyVEtqZzhBWDgxWTJKNkYzcnpYN3dyNkY4T2ZMZEtLVVB6bXpIRFlCSnFpaGFqSENhQQ?oc=5"
     },
     {
@@ -730,13 +785,24 @@
     {
       "id": "rss-aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vcnNzL2FydGljbGVzL0NCTWlZRUZWWDNseFRFMWlVVmxqY0hOU1ZXZHJZbWhvTTBWQlpYQndNbmxxVDJKTGJGSm9NVkU1TmpGTlNUUlNWM1pZV1RoaWVqQTVTV3AxWW05R2VUQldObE5KT1doRFYzTnFWbTVxVGpaS2JWQjRaVzk2VlV4Q2ExWmhWakF5UldNMU1OSUJlRUZWWDNseFRFOVNPR3hUT1ZjNFRGOWljVGg0TW5kT2VHcExabFpPVldaSFlrVmpiM2RuWDJOMFEwRTVha2xJVG5wSFRsSnRXRFZQWDFaM2EzcDFOalpNUVc5NlpVeElWMVJOT0VkRWEyWkhhVVJ2UjJreFNrdExORGsxYzBSU1dXeDVaWGQ0WlV4R1RrWm9XR3RvTW5aU1kzRjVSR0oyVkE_b2M9NQ",
       "source": "구글뉴스",
-      "tag": "뉴시스",
+      "tag": "newsis.com",
       "title": "마몽드, 인도 최대 뷰티·라이프스타일 플랫폼 나이카 독점 입점",
-      "summary": "뉴시스에서 보도한 라이프스타일 트렌드 & 팝업 관련 이슈입니다.",
+      "summary": "newsis.com에서 보도한 라이프스타일 트렌드 & 팝업 관련 이슈입니다.",
       "date": "2026-08-18",
       "category": "라이프스타일 트렌드 & 팝업",
-      "engagement": "출처: 뉴시스",
+      "engagement": "출처: newsis.com",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1iUVljcHNSVWdrYmhoM0VBZXBwMnlqT2JLbFJoMVE5NjFNSTRSV3ZYWThiejA5SWp1Ym9GeTBWNlNJOWhDV3NqVm5qTjZKbVB4ZW96VUxCa1ZhVjAyRWM1MNIBeEFVX3lxTE9SOGxTOVc4TF9icTh4MndOeGpLZlZOVWZHYkVjb3dnX2N0Q0E5aklITnpHTlJtWDVPX1Z3a3p1NjZMQW96ZUxIV1RNOEdEa2ZHaURvR2kxSktLNDk1c0RSWWx5ZXd4ZUxGTkZoWGtoMnZSY3F5RGJ2VA?oc=5"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vcnNzL2FydGljbGVzL0NCTWlZRUZWWDNseFRGQjNNRTlGVUVoSk5URjRjR0Y0UVZjMVFWWnRVMTlqTW1aaWFFRkhSVkJ5ZEhWRmREVnZlR0pDTlhwQ00zUkNlbnBOTjBseWJsVm9ZbFZRVFhKc2NYZDNMV1l4TW0xdWVFWkRlSFpWU1ZaMFUzZG9NWGRKYmtrelV3P29jPTU",
+      "source": "구글뉴스",
+      "tag": "마이데일리",
+      "title": "제나벨, 부산 광안리서 팝업스토어 오픈...체험 공간 확대",
+      "summary": "마이데일리에서 보도한 라이프스타일 트렌드 & 팝업 관련 이슈입니다.",
+      "date": "2026-08-18",
+      "category": "라이프스타일 트렌드 & 팝업",
+      "engagement": "출처: 마이데일리",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB3ME9FUEhJNTF4cGF4QVc1QVZtU19jMmZiaEFHRVBydHVFdDVveGJCNXpCM3RCenpNN0lyblVoYlVQTXJscXd3LWYxMm1ueEZDeHZVSVZ0U3doMXdJbkkzUw?oc=5"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vcnNzL2FydGljbGVzL0NCTWlha0ZWWDNseFRGQjFlVk5zV1Vsc1JXOTJXa1UzZDJkQk5WQlBaMlJQVVZweWVWZFdOVXhVWjBacVNtUjRYelpGV1dkYVUzbG5RVWt3UlZwV2FHTk5PV28yUjFGUGJsSlBjR3g1UjFCbk5rVmlaM1YxYlZacmRHbG9XV1ZrZVY5UWEwSndiRUZ2WkRBeGRGRT9vYz01",
@@ -752,23 +818,23 @@
     {
       "id": "rss-aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vcnNzL2FydGljbGVzL0NCTWlZRUZWWDNseFRFNVZabVUyVG01M05DMXBNa0Z6WTFGcGRURkZiRGhtU2pKWU16ZERiakpoVEdOb2VHdHpOVTA0Y0ZwbVpIQm9TbFZ0T0daSVpuaHJTSGh6WTJoRk1HVm1RVmRwYW5CeWNXYzFTVTkwTkdOV1MydExSR2RXVUVGa1RkSUJlRUZWWDNseFRFOTRNWGRUU0dSSGNYRlplbWRqU2paQ09WQm9hWE5PV1VoTVZuaGtkalpzTFZkd00zbFlOREE1TTJzemN5MHRXbTlzYjIxWWEydHNaVjlFVWxRM1dFeHViVEZvYURBNWNqSm9UbEJPU0haeWRWUnVjVGRLUTA1TmVYQmpWbFJxZW1sRVVHNXhhR2RwT1RORWVXOVVRbTFPVHc_b2M9NQ",
       "source": "구글뉴스",
-      "tag": "뉴시스",
+      "tag": "newsis.com",
       "title": "수공 연천포천권지사, '방울이와 숨은 여행의 문' 팝업스토어",
-      "summary": "뉴시스에서 보도한 라이프스타일 트렌드 & 팝업 관련 이슈입니다.",
+      "summary": "newsis.com에서 보도한 라이프스타일 트렌드 & 팝업 관련 이슈입니다.",
       "date": "2026-08-18",
       "category": "라이프스타일 트렌드 & 팝업",
-      "engagement": "출처: 뉴시스",
+      "engagement": "출처: newsis.com",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5VZmU2Tm53NC1pMkFzY1FpdTFFbDhmSjJYMzdDbjJhTGNoeGtzNU04cFpmZHBoSlVtOGZIZnhrSHhzY2hFMGVmQVdpanBycWc1SU90NGNWS2tLRGdWUEFkTdIBeEFVX3lxTE94MXdTSGRHcXFZemdjSjZCOVBoaXNOWUhMVnhkdjZsLVdwM3lYNDA5M2szcy0tWm9sb21Ya2tsZV9EUlQ3WExubTFoaDA5cjJoTlBOSHZydVRucTdKQ05NeXBjVlRqemlEUG5xaGdpOTNEeW9UQm1OTw?oc=5"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vcnNzL2FydGljbGVzL0NCTWlhMEZWWDNseFRFMXpPWHBqYmt4aE1GWXlUemR3V205blkwMVBja2sxUmpWM01FWXdkVGsyUkRkV1NYcHdTek5RVERCV09IRTJibkZOV1VkMGFHRkZRVzQzTkc0MExWWmpia2hRVTNCWU1sZGhRbTFxY2xSWlRHaDBOM1YxWkdSc1JYQjZOM1pJWjJKbE4xbGowZ0Z2UVZWZmVYRk1UMWsyZFRjMVVYb3laVkppVVdzMVdFRmlOV05pTUV4UlJYQk9VWFpaYWxCVlYyZHlhblpWWDI5UldUTnpRbEYyZFc5SVVVZEtaRnB3V1ZwelRGVXdPWEJMVTA1MFdYUlpWWGxzUlVKWWFHbEdlbTFRYVhGclJHeEJUVmhpTFdKa1pFbFBORWRSZW1WVj9vYz01",
       "source": "구글뉴스",
-      "tag": "hansbiz.co.kr",
+      "tag": "한스경제",
       "title": "트루스 오브 뷰티, 성수동에 Y2K 팝업스토어 오픈",
-      "summary": "hansbiz.co.kr에서 보도한 라이프스타일 트렌드 & 팝업 관련 이슈입니다.",
+      "summary": "한스경제에서 보도한 라이프스타일 트렌드 & 팝업 관련 이슈입니다.",
       "date": "2026-08-18",
       "category": "라이프스타일 트렌드 & 팝업",
-      "engagement": "출처: hansbiz.co.kr",
+      "engagement": "출처: 한스경제",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1zOXpjbkxhMFYyTzdwWm9nY01Pckk1RjV3MEYwdTk2RDdWSXpwSzNQTDBWOHE2bnFNWUd0aGFFQW43NG40LVZjbkhQU3BYMldhQm1qclRZTGh0N3V1ZGRsRXB6N3ZIZ2JlN1lj0gFvQVVfeXFMT1k2dTc1UXoyZVJiUWs1WEFiNWNiMExRRXBOUXZZalBVV2dyanZVX29RWTNzQlF2dW9IUUdKZFpwWVpzTFUwOXBLU050WXRZVXlsRUJYaGlGem1QaXFrRGxBTVhiLWJkZElPNEdRemVV?oc=5"
     },
     {
@@ -796,12 +862,12 @@
     {
       "id": "rss-aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vcnNzL2FydGljbGVzL0NCTWliMEZWWDNseFRGQTNTM3BOWjBSWlptMTVSVFJpTFVnM1NIaExMWEZIWVdKZloyaHNUV05VWjAxbU5FOVpXVVZ1UTFKcE0wUnRSVFZGWkRObGVHZHpWVkF4YnpCcGFXTnZXRjlVUTNjd1JrcDBVMWxFWldWcVJVcEdWWGhCYkhCZlYyOXFSRGQ2TlRseGNHSTFWVVZRTkE_b2M9NQ",
       "source": "구글뉴스",
-      "tag": "ekoreanews.co.kr",
+      "tag": "이코리아",
       "title": "이재현 CJ 회장, 미국 LA 찾아 ‘글로벌 K라이프스타일 비전’ 제시",
-      "summary": "ekoreanews.co.kr에서 보도한 라이프스타일 트렌드 & 팝업 관련 이슈입니다.",
+      "summary": "이코리아에서 보도한 라이프스타일 트렌드 & 팝업 관련 이슈입니다.",
       "date": "2026-08-18",
       "category": "라이프스타일 트렌드 & 팝업",
-      "engagement": "출처: ekoreanews.co.kr",
+      "engagement": "출처: 이코리아",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA3S3pNZ0RZZm15RTRiLUg3SHhLLXFHYWJfZ2hsTWNUZ01mNE9ZWUVuQ1JpM0RtRTVFZDNleGdzVVAxbzBpaWNvWF9UQ3cwRkp0U1lEZWVqRUpGVXhBbHBfV29qRDd6NTlxcGI1VUVQNA?oc=5"
     },
     {
@@ -816,14 +882,25 @@
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5yeXhuX2tUVlJNd1ZwdUhUSXBuSUt3YUdHdkRlYk5OUEctRHJHQnFWQ185VXkwS1YtU3BoemticWtzTFVJS2F6a3JkcEJ5T2dDSXRPRUlWUWo5NGlRWll0YVdmNA?oc=5"
     },
     {
-      "id": "rss-aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vcnNzL2FydGljbGVzL0NCTWlhRUZWWDNseFRFNVFhbTlFUzFReVZ6ZFJlVlpTU0hsUGVGcGlhWFkzZGswNVNEVjBYM1k0U0RWU1NtOUxZVmN6Wm5oYVgyMUJlRzlHUkU5UmRXMTRObTl4YzJSUWFEZFdPRGhEVFVscVRIVXhObU5OZDFwalIwUk1NbWxzYWpWMFh6QnRTbU5sYjFwSD9vYz01",
+      "id": "rss-aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vcnNzL2FydGljbGVzL0NCTWlia0ZWWDNseFRFMDVXa2hvY2xsWGVFYzNRMVJzTm5ZeldreEJZa1l6VXpJdE9FcHhWR1J3WkZkb1RVWXRhVGRWVlRCME5uVlhNazB3TlhwdlNuTjVSV2QwYTJ4dVRYWlVZbWN3T1Y5c1JFMWpkekZ3ZFhobGVWcFpSMWx0VUY5bVRTMUlka0pWTUhsS2FVdE5NM1YzP29jPTU",
       "source": "구글뉴스",
-      "tag": "공감신문",
-      "title": "트리피언, 롯데백화점 동탄점 팝업스토어 진행",
-      "summary": "공감신문에서 보도한 라이프스타일 트렌드 & 팝업 관련 이슈입니다.",
+      "tag": "이지경제",
+      "title": "오리온, ‘미쯔’ 활용 그래놀라 신제품 출시···‘우유 말먹’ 공략",
+      "summary": "이지경제에서 보도한 라이프스타일 트렌드 & 팝업 관련 이슈입니다.",
       "date": "2026-08-18",
       "category": "라이프스타일 트렌드 & 팝업",
-      "engagement": "출처: 공감신문",
+      "engagement": "출처: 이지경제",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE05WkhocllXeEc3Q1RsNnYzWkxBYkYzUzItOEpxVGRwZFdoTUYtaTdVVTB0NnVXMk0wNXpvSnN5RWd0a2xuTXZUYmcwOV9sRE1jdzFwdXhleVpZR1ltUF9mTS1IdkJVMHlKaUtNM3V3?oc=5"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vcnNzL2FydGljbGVzL0NCTWlhRUZWWDNseFRFNVFhbTlFUzFReVZ6ZFJlVlpTU0hsUGVGcGlhWFkzZGswNVNEVjBYM1k0U0RWU1NtOUxZVmN6Wm5oYVgyMUJlRzlHUkU5UmRXMTRObTl4YzJSUWFEZFdPRGhEVFVscVRIVXhObU5OZDFwalIwUk1NbWxzYWpWMFh6QnRTbU5sYjFwSD9vYz01",
+      "source": "구글뉴스",
+      "tag": "gokorea.kr",
+      "title": "트리피언, 롯데백화점 동탄점 팝업스토어 진행",
+      "summary": "gokorea.kr에서 보도한 라이프스타일 트렌드 & 팝업 관련 이슈입니다.",
+      "date": "2026-08-18",
+      "category": "라이프스타일 트렌드 & 팝업",
+      "engagement": "출처: gokorea.kr",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5Qam9ES1QyVzdReVZSSHlPeFpiaXY3dk05SDV0X3Y4SDVSSm9LYVczZnhaX21BeG9GRE9RdW14Nm9xc2RQaDdWODhDTUlqTHUxNmNNd1pjR0RMMmlsajV0XzBtSmNlb1pH?oc=5"
     },
     {
@@ -838,17 +915,6 @@
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBpb1BiTEpXUlJvN3FCWGpvcmhqdzctY3dERXdIMGVZdl8ybFd2Ym1ndERFdWhMOEFDY0l2WnBadGJHT0JrS1VmOS14TGpLSGw0amJfOTA2RmZudUxFamYzNlhPd3RTYldxQWc?oc=5"
     },
     {
-      "id": "rss-aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vcnNzL2FydGljbGVzL0NCTWliRUZWWDNseFRGQXphRmswYTBZeE1VVkdiMVpVUVRCcVoxVkhhbGR1Tmpoa1JXOWhNWEpHVFZRNVZXOXlTVlZPTjFnMFFucG1XVzltUVU4emVrMW9ia2hXVlZKbE0wMVhSREJEU21wek5YSXRlVEZrWm1WRlFsVkllV013TmtsclprWXlTRGh4TUVkSWFuUklaQT9vYz01",
-      "source": "구글뉴스",
-      "tag": "뉴스락",
-      "title": "오리온, ‘미쯔’ 활용한 그래놀라 신제품 출시",
-      "summary": "뉴스락에서 보도한 라이프스타일 트렌드 & 팝업 관련 이슈입니다.",
-      "date": "2026-08-18",
-      "category": "라이프스타일 트렌드 & 팝업",
-      "engagement": "출처: 뉴스락",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAzaFk0a0YxMUVGb1ZUQTBqZ1VHalduNjhkRW9hMXJGTVQ5VW9ySVVON1g0QnpmWW9mQU8zek1obkhWVVJlM01XRDBDSmpzNXIteTFkZmVFQlVIeWMwNklrZkYySDhxMEdIanRIZA?oc=5"
-    },
-    {
       "id": "rss-aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vcnNzL2FydGljbGVzL0NCTWlia0ZWWDNseFRFMVVjMDR5WVd0b2NqSlBNblJzVDJreWNVWkdWbTlZVkRoeFExRkpjamR2UzBsbVRGcEZkRXBoTjJSeU4xSXRZekZSVUZoM04xbEhURGxuWjE5WU5HSmFaRXBrZWxSSmVXbzNSbXBvU1VKd05Vd3lSMHhmYkRaQlJFOVBMVzl6TVVoeFEzWjVVRk5SP29jPTU",
       "source": "구글뉴스",
       "tag": "울산종합일보",
@@ -858,17 +924,6 @@
       "category": "라이프스타일 트렌드 & 팝업",
       "engagement": "출처: 울산종합일보",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1Uc04yYWtocjJPMnRsT2kycUZGVm9YVDhxQ1FJcjdvS0lmTFpFdEphN2RyN1ItYzFRUFh3N1lHTDlnZ19YNGJaZEpkelRJeWo3RmpoSUJwNUwyR0xfbDZBRE9PLW9zMUhxQ3Z5UFNR?oc=5"
-    },
-    {
-      "id": "rss-aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vcnNzL2FydGljbGVzL0NCTWlVa0ZWWDNseFRFNVpVR2h4VWsxTVNXcDBjbk5XYjNwdlZGUTJkM056U2paSFVqVktMVlpMTUhSVmVEQlBOSGRyZDBFdGFXNW5kM2M0ZUhsR2VuWlBkbXRsYmw5eGJFaG5VRWszVkhaeGNXOUphV2M_b2M9NQ",
-      "source": "구글뉴스",
-      "tag": "서울경제",
-      "title": "뉴트리 지노마스터, 여성 맞춤형 ‘아르기닌’ 신제품 출시",
-      "summary": "서울경제에서 보도한 라이프스타일 트렌드 & 팝업 관련 이슈입니다.",
-      "date": "2026-08-18",
-      "category": "라이프스타일 트렌드 & 팝업",
-      "engagement": "출처: 서울경제",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ZUGhxUk1MSWp0cnNWb3pvVFQ2d3NzSjZHUjVKLVZLMHRVeDBPNHdrd0EtaW5nd3c4eHlGenZPdmtlbl9xbEhnUEk3VHZxcW9JaWc?oc=5"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vcnNzL2FydGljbGVzL0NCTWliRUZWWDNseFRGQjVORzE0VFhwMFZWbzNiVUl5UVV4b0xWWjZjM2RTZUMxdWFFSmlkRkZ3WW14SFpUWlNOekJYTFdOc2NVZFZhamcyYUVsWk1tVXllVkpLVlVSVVpEZENaMlkyY1dGNFpVaHJkSG80Y1dkdmNYcHdURzFGVWt4V2NFVmZXa3hmWXpad1RtMU5PZElCY0VGVlgzbHhURkJrU0dOd1NrdG1SV1pxVkZKdFRrWTNRM3BQVjNKU2MwUjFSR1pIU1VWUlFrUmxaR1puYjA5TVJFdEpURzVFYUdjMlkwOUVSRGRVTkdWT2VtbENlbVJJTjJ4RVJrNTVSRXg0ZW5WMk1sTjJPRTQzWWt0SWQwRlJNR1pTUjIxV1FtWlFWV3gwTWxwYWVWOD9vYz01",
@@ -882,26 +937,37 @@
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB5NG14TXp0VVo3bUIyQUxoLVZ6c3dSeC1uaEJidFFwYmxHZTZSNzBXLWNscUdVajg2aElZMmUyeVJKVURUZDdCZ2Y2cWF4ZUhrdHo4cWdvcXpwTG1FUkxWcEVfWkxfYzZwTm1NOdIBcEFVX3lxTFBkSGNwSktmRWZqVFJtTkY3Q3pPV3JSc0R1RGZHSUVRQkRlZGZnb09MREtJTG5EaGc2Y09ERDdUNGVOemlCemRIN2xERk55REx4enV2MlN2OE43YktId0FRMGZSR21WQmZQVWx0MlpaeV8?oc=5"
     },
     {
-      "id": "rss-aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vcnNzL2FydGljbGVzL0NCTWlZMEZWWDNseFRFNVNiVXh5YzFkYWFXdHFhVzR3UWpSWVQzbGhjMHhxZVVsTlJuVmxiV1ZRWjNKc00wTXpVR1ZGYWtGQ2JUTmFaekJ3VlhRMmFEVldiRU10UkVGM1RXeGZNMDFSWjA5cVkzbFViMGxmTTBKd00yMHlOSHBOTTA0NFdubEpidz9vYz01",
+      "id": "rss-aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vcnNzL2FydGljbGVzL0NCTWlVa0ZWWDNseFRFNVpVR2h4VWsxTVNXcDBjbk5XYjNwdlZGUTJkM056U2paSFVqVktMVlpMTUhSVmVEQlBOSGRyZDBFdGFXNW5kM2M0ZUhsR2VuWlBkbXRsYmw5eGJFaG5VRWszVkhaeGNXOUphV2M_b2M9NQ",
       "source": "구글뉴스",
-      "tag": "bokuennews.com",
-      "title": "트루스 오브 뷰티, Y2K 감성 담은 팝업스토어 '별별 문방구' 운영",
-      "summary": "bokuennews.com에서 보도한 라이프스타일 트렌드 & 팝업 관련 이슈입니다.",
+      "tag": "서울경제",
+      "title": "뉴트리 지노마스터, 여성 맞춤형 ‘아르기닌’ 신제품 출시",
+      "summary": "서울경제에서 보도한 라이프스타일 트렌드 & 팝업 관련 이슈입니다.",
       "date": "2026-08-18",
       "category": "라이프스타일 트렌드 & 팝업",
-      "engagement": "출처: bokuennews.com",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5SbUxyc1daaWtqaW4wQjRYT3lhc0xqeUlNRnVlbWVQZ3JsM0MzUGVFakFCbTNaZzBwVXQ2aDVWbEMtREF3TWxfM01RZ09qY3lUb0lfM0JwM20yNHpNM044WnlJbw?oc=5"
+      "engagement": "출처: 서울경제",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ZUGhxUk1MSWp0cnNWb3pvVFQ2d3NzSjZHUjVKLVZLMHRVeDBPNHdrd0EtaW5nd3c4eHlGenZPdmtlbl9xbEhnUEk3VHZxcW9JaWc?oc=5"
     },
     {
-      "id": "rss-aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vcnNzL2FydGljbGVzL0NCTWlhMEZWWDNseFRFMDJjbHBqTmpKeVN6WlhTakpuVmpObFdGSkZiR3RaYTNZMVRsWTVPRU01VERoNWJFOTJiVTh5WlZwelJHaGhaVTgwZVZKMFZuaGFTRXR4UVdaaVZYQTVZMlJxU0RrMWJEVldRVmxmVHpOMVZqTndNMjR5WnpWbk9WWTJjMnRPVEhwUlZqTTQ_b2M9NQ",
+      "id": "rss-aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vcnNzL2FydGljbGVzL0NCTWliRUZWWDNseFRGQXphRmswYTBZeE1VVkdiMVpVUVRCcVoxVkhhbGR1Tmpoa1JXOWhNWEpHVFZRNVZXOXlTVlZPTjFnMFFucG1XVzltUVU4emVrMW9ia2hXVlZKbE0wMVhSREJEU21wek5YSXRlVEZrWm1WRlFsVkllV013TmtsclprWXlTRGh4TUVkSWFuUklaQT9vYz01",
       "source": "구글뉴스",
-      "tag": "일간투데이",
-      "title": "[빅데이터로본다] 생활용품 2026년 8월 브랜드평판... 1위 다이소, 2위 쿠팡, 3위 이마트",
-      "summary": "일간투데이에서 보도한 라이프스타일 트렌드 & 팝업 관련 이슈입니다.",
+      "tag": "뉴스락",
+      "title": "오리온, ‘미쯔’ 활용한 그래놀라 신제품 출시",
+      "summary": "뉴스락에서 보도한 라이프스타일 트렌드 & 팝업 관련 이슈입니다.",
       "date": "2026-08-18",
       "category": "라이프스타일 트렌드 & 팝업",
-      "engagement": "출처: 일간투데이",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE02clpjNjJySzZXSjJnVjNlWFJFbGtZa3Y1TlY5OEM5TDh5bE92bU8yZVpzRGhhZU80eVJ0VnhaSEtxQWZiVXA5Y2RqSDk1bDVWQVlfTzN1VjNwM24yZzVnOVY2c2tOTHpRVjM4?oc=5"
+      "engagement": "출처: 뉴스락",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAzaFk0a0YxMUVGb1ZUQTBqZ1VHalduNjhkRW9hMXJGTVQ5VW9ySVVON1g0QnpmWW9mQU8zek1obkhWVVJlM01XRDBDSmpzNXIteTFkZmVFQlVIeWMwNklrZkYySDhxMEdIanRIZA?oc=5"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vcnNzL2FydGljbGVzL0NCTWlZMEZWWDNseFRFNVNiVXh5YzFkYWFXdHFhVzR3UWpSWVQzbGhjMHhxZVVsTlJuVmxiV1ZRWjNKc00wTXpVR1ZGYWtGQ2JUTmFaekJ3VlhRMmFEVldiRU10UkVGM1RXeGZNMDFSWjA5cVkzbFViMGxmTTBKd00yMHlOSHBOTTA0NFdubEpidz9vYz01",
+      "source": "구글뉴스",
+      "tag": "보건신문",
+      "title": "트루스 오브 뷰티, Y2K 감성 담은 팝업스토어 '별별 문방구' 운영",
+      "summary": "보건신문에서 보도한 라이프스타일 트렌드 & 팝업 관련 이슈입니다.",
+      "date": "2026-08-18",
+      "category": "라이프스타일 트렌드 & 팝업",
+      "engagement": "출처: 보건신문",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5SbUxyc1daaWtqaW4wQjRYT3lhc0xqeUlNRnVlbWVQZ3JsM0MzUGVFakFCbTNaZzBwVXQ2aDVWbEMtREF3TWxfM01RZ09qY3lUb0lfM0JwM20yNHpNM044WnlJbw?oc=5"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vcnNzL2FydGljbGVzL0NCTWljRUZWWDNseFRFNWpXRTkxZWxCalNVTm5jVTU2VFhKNFNteE5lSEpoVUZoVlIyeFpWRmhzVFVOU1FsRTViV3g0ZGw5ZlNXSlBSelF5YzI0Mk5uZG1PR1EzWlV4V2NXaDZVV3hIY0ZsMFFVVlBRVkJKZDAxbmFHdEVSa1ZXYTFKdGQwOTZUbmxKVTBnd1pEYzBaMjR4UmtvP29jPTU",
@@ -913,6 +979,17 @@
       "category": "라이프스타일 트렌드 & 팝업",
       "engagement": "출처: 신아일보",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5jWE91elBjSUNncU56TXJ4SmxNeHJhUFhVR2xZVFhsTUNSQlE5bWx4dl9fSWJPRzQyc242NndmOGQ3ZUxWcWh6UWxHcFl0QUVPQVBJd01naGtERkVWa1Jtd096TnlJU0gwZDc0Z24xRko?oc=5"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vcnNzL2FydGljbGVzL0NCTWlhMEZWWDNseFRFMDJjbHBqTmpKeVN6WlhTakpuVmpObFdGSkZiR3RaYTNZMVRsWTVPRU01VERoNWJFOTJiVTh5WlZwelJHaGhaVTgwZVZKMFZuaGFTRXR4UVdaaVZYQTVZMlJxU0RrMWJEVldRVmxmVHpOMVZqTndNMjR5WnpWbk9WWTJjMnRPVEhwUlZqTTQ_b2M9NQ",
+      "source": "구글뉴스",
+      "tag": "일간투데이",
+      "title": "[빅데이터로본다] 생활용품 2026년 8월 브랜드평판... 1위 다이소, 2위 쿠팡, 3위 이마트",
+      "summary": "일간투데이에서 보도한 라이프스타일 트렌드 & 팝업 관련 이슈입니다.",
+      "date": "2026-08-18",
+      "category": "라이프스타일 트렌드 & 팝업",
+      "engagement": "출처: 일간투데이",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE02clpjNjJySzZXSjJnVjNlWFJFbGtZa3Y1TlY5OEM5TDh5bE92bU8yZVpzRGhhZU80eVJ0VnhaSEtxQWZiVXA5Y2RqSDk1bDVWQVlfTzN1VjNwM24yZzVnOVY2c2tOTHpRVjM4?oc=5"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vcnNzL2FydGljbGVzL0NCTWlXa0ZWWDNseFRFNU9UVGQ0ZEhab09YZE9Xa1l3WXpCQmRtTnZVRTFWTkV0NFFsZFlYemhYY0hkdVQyNXNkM1oxY1dSeVpHY3dhVUo0YzA1eVpFNTNhbmxWTUU5TGVIVlliVWMwWVhoRFMzRkNla2RrV1cwMlp5MVladz9vYz01",
@@ -961,46 +1038,24 @@
     {
       "id": "rss-aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vcnNzL2FydGljbGVzL0NCTWljMEZWWDNseFRFNHpaREIzWlc5RExYQkVVSGx1UkROTmFXMVFkM0JOT1hnMlZrdDNlREpKVGxCa1JWOXVaeTA0Y0hsNlJ6Um9PRk5mY0hkUVpGcFRTWEJETjBoc1dUWkhMVlJuWm5WT1dVSjBYMWx1YTJ4aE1XSmpMWEpCVEZGQ1YweHBUR1pWYzJaME16ZDNVM1ZMUzBGT1R6UT9vYz01",
       "source": "구글뉴스",
-      "tag": "sports.donga.com",
+      "tag": "스포츠동아",
       "title": "갤러리아백화점, ‘기어라운지’ 팝업스토어 운영",
-      "summary": "sports.donga.com에서 보도한 라이프스타일 트렌드 & 팝업 관련 이슈입니다.",
+      "summary": "스포츠동아에서 보도한 라이프스타일 트렌드 & 팝업 관련 이슈입니다.",
       "date": "2026-08-18",
       "category": "라이프스타일 트렌드 & 팝업",
-      "engagement": "출처: sports.donga.com",
+      "engagement": "출처: 스포츠동아",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4zZDB3ZW9DLXBEUHluRDNNaW1Qd3BNOXg2Vkt3eDJJTlBkRV9uZy04cHl6RzRoOFNfcHdQZFpTSXBDN0hsWTZHLVRnZnVOWUJ0X1lua2xhMWJjLXJBTFFCV0xpTGZVc2Z0Mzd3U3VLS0FOTzQ?oc=5"
-    },
-    {
-      "id": "rss-aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vcnNzL2FydGljbGVzL0NCTWlia0ZWWDNseFRFMDVXa2hvY2xsWGVFYzNRMVJzTm5ZeldreEJZa1l6VXpJdE9FcHhWR1J3WkZkb1RVWXRhVGRWVlRCME5uVlhNazB3TlhwdlNuTjVSV2QwYTJ4dVRYWlVZbWN3T1Y5c1JFMWpkekZ3ZFhobGVWcFpSMWx0VUY5bVRTMUlka0pWTUhsS2FVdE5NM1YzP29jPTU",
-      "source": "구글뉴스",
-      "tag": "이지경제",
-      "title": "오리온, ‘미쯔’ 활용 그래놀라 신제품 출시···‘우유 말먹’ 공략",
-      "summary": "이지경제에서 보도한 라이프스타일 트렌드 & 팝업 관련 이슈입니다.",
-      "date": "2026-08-18",
-      "category": "라이프스타일 트렌드 & 팝업",
-      "engagement": "출처: 이지경제",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE05WkhocllXeEc3Q1RsNnYzWkxBYkYzUzItOEpxVGRwZFdoTUYtaTdVVTB0NnVXMk0wNXpvSnN5RWd0a2xuTXZUYmcwOV9sRE1jdzFwdXhleVpZR1ltUF9mTS1IdkJVMHlKaUtNM3V3?oc=5"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vcnNzL2FydGljbGVzL0NCTWlZRUZWWDNseFRFOXBSQzFrY1dOT05taDZhWEl3TTI1ZmVHdElkMms1YzB4cFJHSXpWRmxVUzJoMGVWRkVkMVJFWjBSUWEzVmFha2s0TVhCalduTkNSbkV0WldVM1NVNTVNbFJNZUVsamMybFVPRGRUVjNweWJXTTVhSGhPVG5wbU50SUJlRUZWWDNseFRFNW5VRmcyZGpSYWExWjFkRkZWWVcxWlkyWjZjRTV3ZVVOSE5rbHZOak5HZUdveVJGQk1WM2hwT0RscFpGRnBVMFJUTmkxeFRIRjRiVFZtYVZsbFNsWjVka2MxTFVreVNtTnhaR1JFYmtOMkxUSlhhVE5vTkU5T1RHeElZbWwwVGtWQ1VVeEJiM2xyTTJKUVoxWjZOMWRUTWc_b2M9NQ",
       "source": "구글뉴스",
-      "tag": "뉴시스",
+      "tag": "newsis.com",
       "title": "\"티니핑과 즐거운 식생활\"…락앤락, 신제품 출시",
-      "summary": "뉴시스에서 보도한 라이프스타일 트렌드 & 팝업 관련 이슈입니다.",
+      "summary": "newsis.com에서 보도한 라이프스타일 트렌드 & 팝업 관련 이슈입니다.",
       "date": "2026-08-18",
       "category": "라이프스타일 트렌드 & 팝업",
-      "engagement": "출처: 뉴시스",
+      "engagement": "출처: newsis.com",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9pRC1kcWNONmh6aXIwM25feGtId2k5c0xpRGIzVFlUS2h0eVFEd1REZ0RQa3Vaakk4MXBjWnNCRnEtZWU3SU55MlRMeEljc2lUODdTV3pybWM5aHhOTnpmNtIBeEFVX3lxTE5nUFg2djRaa1Z1dFFVYW1ZY2Z6cE5weUNHNklvNjNGeGoyRFBMV3hpODlpZFFpU0RTNi1xTHF4bTVmaVllSlZ5dkc1LUkySmNxZGREbkN2LTJXaTNoNE9OTGxIYml0TkVCUUxBb3lrM2JQZ1Z6N1dTMg?oc=5"
-    },
-    {
-      "id": "rss-aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vcnNzL2FydGljbGVzL0NCTWlVRUZWWDNseFRGQTNYelJmV1RCalkwUmtUVXBDV0hwSVkzVjBibTVTYkZSVFJXZHJTR2RNT0hsa2NrVlhYMFJPWkY4d1RrRkxYMjVuWkZGc1dVRlRRVEZKTlVRNFVUSnFkMWw1VEdrMVVtUnQ_b2M9NQ",
-      "source": "구글뉴스",
-      "tag": "sisa-n.com",
-      "title": "[라이프스타일 뉴스클리핑] 2026년 08월 18일(화): \"실패작은 안 낸다\"…신메뉴를 시험대에 올린 외식업계",
-      "summary": "sisa-n.com에서 보도한 라이프스타일 트렌드 & 팝업 관련 이슈입니다.",
-      "date": "2026-08-18",
-      "category": "라이프스타일 트렌드 & 팝업",
-      "engagement": "출처: sisa-n.com",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA3XzRfWTBjY0RkTUpCWHpIY3V0bm5SbFRTRWdrSGdMOHlkckVXX0ROZF8wTkFLX25nZFFsWUFTQTFJNUQ4UTJqd1l5TGk1UmRt?oc=5"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vcnNzL2FydGljbGVzL0NCTWlVMEZWWDNseFRFOVZTREJYZDNCQlJWcDNka05vVTI1TGQzaHBkVVoxVkZFMFZGcFJVR3gyUVdNNFkxVXpYMlIzVkZKdlpWZ3hWRGxsYVVGcE1IVllRbFZLVW1abGMzSXpUMWRyZWpsR1JFMDRUVGx6P29jPTU",
@@ -1012,6 +1067,17 @@
       "category": "라이프스타일 트렌드 & 팝업",
       "engagement": "출처: 네이트",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9VSDBXd3BBRVp3dkNoU25Ld3hpdUZ1VFE0VFpRUGx2QWM4Y1UzX2R3VFJvZVgxVDllaUFpMHVYQlVKUmZlc3IzT1drejlGRE04TTlz?oc=5"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vcnNzL2FydGljbGVzL0NCTWlVRUZWWDNseFRGQTNYelJmV1RCalkwUmtUVXBDV0hwSVkzVjBibTVTYkZSVFJXZHJTR2RNT0hsa2NrVlhYMFJPWkY4d1RrRkxYMjVuWkZGc1dVRlRRVEZKTlVRNFVUSnFkMWw1VEdrMVVtUnQ_b2M9NQ",
+      "source": "구글뉴스",
+      "tag": "sisa-n.com",
+      "title": "[라이프스타일 뉴스클리핑] 2026년 08월 18일(화): \"실패작은 안 낸다\"…신메뉴를 시험대에 올린 외식업계",
+      "summary": "sisa-n.com에서 보도한 라이프스타일 트렌드 & 팝업 관련 이슈입니다.",
+      "date": "2026-08-18",
+      "category": "라이프스타일 트렌드 & 팝업",
+      "engagement": "출처: sisa-n.com",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA3XzRfWTBjY0RkTUpCWHpIY3V0bm5SbFRTRWdrSGdMOHlkckVXX0ROZF8wTkFLX25nZFFsWUFTQTFJNUQ4UTJqd1l5TGk1UmRt?oc=5"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vcnNzL2FydGljbGVzL0NCTWlaRUZWWDNseFRFMW5WR2MzTm10WGIyMXJTRkkwVUU1UWJrVmtaMlJoZG1kbGNHRnZZbk5FUWxaNlgxWkZlbVpmYzB4bFNHTmFOelZtVVRjMVFsbExOMU5UTmxkTFRTMUtaRzlMTUVsd1EwNWhlV0Y0Ykd4WlNVMUpZVzlaYlV0Q1EwdFFkMlU_b2M9NQ",
@@ -1034,73 +1100,7 @@
       "category": "라이프스타일 트렌드 & 팝업",
       "engagement": "출처: 베이비뉴스",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBRcmpNZ1lTNXBxTEZDT2hGeEVsRVZwM0VBVnBOM0xKd1l0N0tKUzVTLWxYa21NUE9qclZnMlNSQXBvVWMyd0hFYS1WX1pURTVHOVhRSW5wTlBaVEtPUnpUalpTZkdPbWdjMnhHeg?oc=5"
-    },
-    {
-      "id": "rss-aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vcnNzL2FydGljbGVzL0NCTWlmRUZWWDNseFRFMWtabUU1YkdwUVdHRkxMVk5KTWs1dlJXNWlOVXc0WjNZeGVDMXRYMGxDUW5sTVZGOTNjM296U210RFNHUlFiRU42YVRSYWFYVkZibEZHU1hKTlJFMUJZVkJQTTJGRGNsQkdlREJvY0d4SlJUWlJOMnM0V21JdE9XSnZiamhyU1MxalpERlhSbUZNT1hWWFFrdHVSMkYwZVRSSU5HZz9vYz01",
-      "source": "구글뉴스",
-      "tag": "비욘드포스트",
-      "title": "영생면, 서촌 한옥서 특별한 브랜드 경험 선봬 'YUM YUM LAND in SEOUL' 팝업 스토어 개최",
-      "summary": "비욘드포스트에서 보도한 라이프스타일 트렌드 & 팝업 관련 이슈입니다.",
-      "date": "2026-08-18",
-      "category": "라이프스타일 트렌드 & 팝업",
-      "engagement": "출처: 비욘드포스트",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1kZmE5bGpQWGFLLVNJMk5vRW5iNUw4Z3YxeC1tX0lCQnlMVF93c3ozSmtDSGRQbEN6aTRaaXVFblFGSXJNRE1BYVBPM2FDclBGeDBocGxJRTZRN2s4WmItOWJvbjhrSS1jZDFXRmFMOXVXQktuR2F0eTRINGg?oc=5"
-    },
-    {
-      "id": "rss-aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vcnNzL2FydGljbGVzL0NCTWlVMEZWWDNseFRFMWZVMGRDTW5SWmJWcDVUVU5JTldsYU1uRndaVWRCWDJ3M2JuQTFOa2xzWnpWS1ZWSTNXVGRvTVVoVlVVazFObXRmTkU1eVRWQkJaR1ZFTUhSa2RuRkhNVGx6ZHpSclZXY3RNVXRaP29jPTU",
-      "source": "구글뉴스",
-      "tag": "네이트",
-      "title": "갤러리아백화점, '기어라운지' 팝업스토어 운영",
-      "summary": "네이트에서 보도한 라이프스타일 트렌드 & 팝업 관련 이슈입니다.",
-      "date": "2026-08-18",
-      "category": "라이프스타일 트렌드 & 팝업",
-      "engagement": "출처: 네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1fU0dCMnRZbVp5TUNINWlaMnFwZUdBX2w3bnA1NklsZzVKVVI3WTdoMUhVUUk1NmtfNE5yTVBBZGVEMHRkdnFHMTlzdzRrVWctMUtZ?oc=5"
-    },
-    {
-      "id": "rss-aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vcnNzL2FydGljbGVzL0NCTWlUMEZWWDNseFRFMDBRek0wYUMwdE5YcFBNMU5EWW1KMU1IZGZlSFJDYzBWSVFVRlZUMkZqTkVkamFTMXJUazlWV0d4RFNtNVlSaTFUVVVaVVFraE5TMnRTWHkxcU9WaHBNVTR4ZDFSVk5VVT9vYz01",
-      "source": "구글뉴스",
-      "tag": "v.daum.net",
-      "title": "경콘진, 텀블벅 연계 ‘NEW ITEM 팝업 전시’ 개최",
-      "summary": "v.daum.net에서 보도한 커머스 & 펀딩 바이럴 관련 이슈입니다.",
-      "date": "2026-08-18",
-      "category": "커머스 & 펀딩 바이럴",
-      "engagement": "출처: v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE00QzM0aC0tNXpPM1NDYmJ1MHdfeHRCc0VIQUFVT2FjNEdjaS1rTk9VWGxDSm5YRi1TUUZUQkhNS2tSXy1qOVhpMU4xd1RVNUU?oc=5"
-    },
-    {
-      "id": "rss-aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vcnNzL2FydGljbGVzL0NCTWlkRUZWWDNseFRFOXlibVp2Vm14NVJWUlJZMmxpZUZad1FXOVZWRkUxWnpCR1FreFlXVEV0Y1ZkdWNVZHJVWFJrY1dKR1VsaHNTR28zYldKSGVFWm5NWGs0YkVWTE5XTlFjblZ1WWtWNFZXeG5XamRxZG05cE1VeEtaUzFDUjFsRmJHbG9XazU2UmpkSk0xOU1NSEZuVVVGdFMxVm8wZ0YwUVZWZmVYRk1UM0p1Wm05V2JIbEZWRkZqYVdKNFZuQkJiMVZVVVRWbk1FWkNURmhaTVMxeFYyNXhSMnRSZEdSeFlrWlNXR3hJYWpkdFlrZDRSbWN4ZVRoc1JVczFZMUJ5ZFc1aVJYaFZiR2RhTjJwMmIya3hURXBsTFVKSFdVVnNhV2hhVG5wR04wa3pYMHd3Y1dkUlFXMUxWV2c_b2M9NQ",
-      "source": "구글뉴스",
-      "tag": "IT조선",
-      "title": "텀블벅, 누적 펀딩액 5천억원… 20대 여성·게임·굿즈가 견인",
-      "summary": "IT조선에서 보도한 커머스 & 펀딩 바이럴 관련 이슈입니다.",
-      "date": "2026-08-18",
-      "category": "커머스 & 펀딩 바이럴",
-      "engagement": "출처: IT조선",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9ybmZvVmx5RVRRY2lieFZwQW9VVFE1ZzBGQkxYWTEtcVducUdrUXRkcWJGUlhsSGo3bWJHeEZnMXk4bEVLNWNQcnVuYkV4VWxnWjdqdm9pMUxKZS1CR1lFbGloWk56RjdJM19MMHFnUUFtS1Vo0gF0QVVfeXFMT3JuZm9WbHlFVFFjaWJ4VnBBb1VUUTVnMEZCTFhZMS1xV25xR2tRdGRxYkZSWGxIajdtYkd4RmcxeThsRUs1Y1BydW5iRXhVbGdaN2p2b2kxTEplLUJHWUVsaWhaTnpGN0kzX0wwcWdRQW1LVWg?oc=5"
-    },
-    {
-      "id": "rss-aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vcnNzL2FydGljbGVzL0NCTWlZRUZWWDNseFRFODJRMkpaTUZnMGRrSmFZM05wY0hKUWJDMVRVVE5GU1hsMlNrcDBjM0pCTVc5Zlh6UkpkMjgyZDNaVFJEbHNaRzFIYVRGdGVtRnlkSFpoT0dzeExVUjFjWGRCTTNnM1RHOTBaVEZEUzJkM1ZqWlVWRTFLVEdkNWJRP29jPTU",
-      "source": "구글뉴스",
-      "tag": "메트로신문",
-      "title": "경기콘텐츠진흥원, 텀블벅 연계 'NEW ITEM 팝업 전시' 개최",
-      "summary": "메트로신문에서 보도한 커머스 & 펀딩 바이럴 관련 이슈입니다.",
-      "date": "2026-08-18",
-      "category": "커머스 & 펀딩 바이럴",
-      "engagement": "출처: 메트로신문",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE82Q2JZMFg0dkJaY3NpcHJQbC1TUTNFSXl2Skp0c3JBMW9fXzRJd282d3ZTRDlsZG1HaTFtemFydHZhOGsxLUR1cXdBM3g3TG90ZTFDS2d3VjZUVE1KTGd5bQ?oc=5"
-    },
-    {
-      "id": "rss-aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vcnNzL2FydGljbGVzL0NCTWlWa0ZWWDNseFRGQXROSEo1YkMxRFJERnBYMmRTT0RSRVREZzBjRGxyWm1wdVlYTlliRVpVWDBSeE9ESmpkM2xYT1VwNk1WSkNkelJXTFZFNVYwWkxkME5WZG1KWFNUSTBXbEZPYUVKVFIxVnJZMGd6T0U5Qj9vYz01",
-      "source": "구글뉴스",
-      "tag": "바이라인네트워크",
-      "title": "텀블벅, 누적 펀딩 금액 5000억원 돌파…“콘텐츠 IP·게임 프로젝트 성장세 지속”",
-      "summary": "바이라인네트워크에서 보도한 커머스 & 펀딩 바이럴 관련 이슈입니다.",
-      "date": "2026-08-18",
-      "category": "커머스 & 펀딩 바이럴",
-      "engagement": "출처: 바이라인네트워크",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAtNHJ5bC1DRDFpX2dSODRETDg0cDlrZmpuYXNYbEZUX0RxODJjd3lXOUp6MVJCdzRWLVE5V0ZLd0NVdmJXSTI0WlFOaEJTR1VrY0gzOE9B?oc=5"
     }
   ],
-  "generatedAt": "2026-08-18T09:47:23.925Z"
+  "generatedAt": "2026-08-18T10:07:51.999Z"
 }
