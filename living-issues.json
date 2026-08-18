@@ -70,12 +70,12 @@
     {
       "id": "rss-aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vcnNzL2FydGljbGVzL0NCTWlhMEZWWDNseFRFOTVkazVKWVhwaWEwVmFkWE50ZFdoWldtMU5jVUZ3YW5wQ1FVSkxUMTk1YUdaWUxVUnJMVkJqVTBwd1NUSnlMWGRRWmxJM1drcFRjbVZ6T1ZKZlNrTmFWM0ZLVEVFeFdXRmhZa2hPYkRkdFJqWTFOMnhSZVZwWlYwZHJZbmcwYnpKc1UzWXc_b2M9NQ",
       "source": "구글뉴스",
-      "tag": "nbntv.co.kr",
+      "tag": "내외경제TV",
       "title": "에이코·다나눔, 홈케어 서비스 확대 위한 업무협약 체결",
-      "summary": "nbntv.co.kr에서 보도한 생활용품 관련 이슈입니다.",
+      "summary": "내외경제TV에서 보도한 생활용품 관련 이슈입니다.",
       "date": "2026-06-08",
       "category": "생활용품",
-      "engagement": "출처: nbntv.co.kr",
+      "engagement": "출처: 내외경제TV",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE95dk5JYXpia0VadXNtdWhZWm1NcUFwanpCQUJLT195aGZYLURrLVBjU0pwSTJyLXdQZlI3WkpTcmVzOVJfSkNaV3FKTEExWWFhYkhObDdtRjY1N2xReVpZV0drYng0bzJsU3Yw?oc=5"
     },
     {
@@ -110,7 +110,227 @@
       "category": "주방가전",
       "engagement": "출처: 베이비뉴스",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5WT19HNEU4anFQY1dCbkJJVjhxTHVvbXQ2LTJSQjUwQTJjalFlcmtQbzhjR1V3dEZpRkdPUGFFeC03QnpyUi1PTDV2cUJGNDVmMUR5SUNqSzEzeS1SZjBJT1RNMEJCVkJCWVNMNQ?oc=5"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vcnNzL2FydGljbGVzL0NCTWlmRUZWWDNseFRGQjZiR3N0T0c5R1YzQmpabU5mV0hWWlEwMVdSVWMzVlVGVGFtNVNibEZDY25WSGExTmlSazAyVEhwMlRXTkdPUzE1YjBSTFRWQlljVlp0WkdkWFVFaHZXbWxyZEZRNUxWRldVVFUwUkZKdFV6aERNRmd0YVhkeWRWbDFUemhCZDNkS1dWWnhOWG8wU0U5bWVYUm5iWG94VFRCT2VHaz9vYz01",
+      "source": "구글뉴스",
+      "tag": "비욘드포스트",
+      "title": "테팔, 주방에 컬러 감성 신제품 미니 전기밥솥 ‘팝솥’ 출시",
+      "summary": "비욘드포스트에서 보도한 주방가전 관련 이슈입니다.",
+      "date": "2026-05-18",
+      "category": "주방가전",
+      "engagement": "출처: 비욘드포스트",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB6bGstOG9GV3BjZmNfWHVZQ01WRUc3VUFTam5SblFCcnVHa1NiRk02THp2TWNGOS15b0RLTVBYcVZtZGdXUEhvWmlrdFQ5LVFWUTU0RFJtUzhDMFgtaXdydVl1TzhBd3dKWVZxNXo0SE9meXRnbXoxTTBOeGk?oc=5"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vcnNzL2FydGljbGVzL0NCTWlod0ZCVlY5NWNVeE5TemhwU2pSNU9WOUtSbVV0WTBSTFFVWXRSMDFoYURGaVkyeHRhVlkxYTBKVVJXdDBZVFF4YkRSWVEydFlXbDlmY21ZMGVUUjZUV3hoU1ZGYVpWSkpjRUkxVGxOcmNXRTJPVWN6WldsZk9HWnlUa3QwYWt4UVdYRlFORlF3UldKbGJVSlVSRE5YTTA5MVZHUmlTV2gyVDFoT2EyOVVUbFYzVG5KNVQySllNelE_b2M9NQ",
+      "source": "구글뉴스",
+      "tag": "모바일한경",
+      "title": "글로벌 주방가전 브랜드, 블랙앤데커(BLACK+DECKER)",
+      "summary": "모바일한경에서 보도한 주방가전 관련 이슈입니다.",
+      "date": "2026-04-28",
+      "category": "주방가전",
+      "engagement": "출처: 모바일한경",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSzhpSjR5OV9KRmUtY0RLQUYtR01haDFiY2xtaVY1a0JURWt0YTQxbDRYQ2tYWl9fcmY0eTR6TWxhSVFaZVJJcEI1TlNrcWE2OUczZWlfOGZyTkt0akxQWXFQNFQwRWJlbUJURDNXM091VGRiSWh2T1hOa29UTlV3TnJ5T2JYMzQ?oc=5"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vcnNzL2FydGljbGVzL0NCTWlZa0ZWWDNseFRFNUtaR05PUTNGWE1qTlpNRll4UVZsRU9HVmtSbUZsTVhONllVVnBZa2xGWjNnelFsQlVWSGg2TjFGWFpYQjVNRkZQT0dSV01UWm1aV05EVVhaV1ZWa3dSWGRoVWxKR2NrcGFOM2hFWWpWcVVra3pjak5EU0UxZk9WcDM_b2M9NQ",
+      "source": "구글뉴스",
+      "tag": "디지털데일리",
+      "title": "[위클리템] “사라진 주방가전 경계” 삼성전자 후드 일체형 인덕션·SK매직 투워터 정수기 출시",
+      "summary": "디지털데일리에서 보도한 주방가전 관련 이슈입니다.",
+      "date": "2026-04-25",
+      "category": "주방가전",
+      "engagement": "출처: 디지털데일리",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5KZGNOQ3FXMjNZMFYxQVlEOGVkRmFlMXN6YUVpYklFZ3gzQlBUVHh6N1FXZXB5MFFPOGRWMTZmZWNDUXZWVVkwRXdhUlJGckpaN3hEYjVqUkkzcjNDSE1fOVp3?oc=5"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vcnNzL2FydGljbGVzL0NCTWlTMEZWWDNseFRGQXpRMlZaUTNFNWNDMWZUbkZxZFcxWFZIWkNkMGRwTmtnME1HOU9MWEZCZFZFNFVsRm5VazF6WjFsU2NrSk1iR1pIVEZaNlgyeE5SR3haWjA1RFJHTXhRVFZQVVE_b2M9NQ",
+      "source": "구글뉴스",
+      "tag": "inews24.com",
+      "title": "삼성전자, 후드 일체형 인덕션 출시⋯프리미엄 주방가전 확대",
+      "summary": "inews24.com에서 보도한 주방가전 관련 이슈입니다.",
+      "date": "2026-04-22",
+      "category": "주방가전",
+      "engagement": "출처: inews24.com",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFAzQ2VZQ3E5cC1fTnFqdW1XVHZCd0dpNkg0MG9OLXFBdVE4UlFnUk1zZ1lSckJMbGZHTFZ6X2xNRGxZZ05DRGMxQTVPUQ?oc=5"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vcnNzL2FydGljbGVzL0NCTWlaMEZWWDNseFRFNHhlSEY2VVhoMmQxTnhUakpHWkUwMlZGQkZSbTA1V21zME5VVkpTbnBETUROQ1NsUnZNMkZPYmtKZldXZElVakJPZUUxTVdVRmtlRWhEVUVoeUxVWTFVekJyWlc5TlIyNDRWVXRaZVdaaFNXbHBUamRGZUhWUVRWVlZRMGh5YzFFP29jPTU",
+      "source": "구글뉴스",
+      "tag": "투데이e코노믹",
+      "title": "삼성전자, ‘인피니트 라인’ 후드 일체형 인덕션 출시…프리미엄 빌트인 주방 공략",
+      "summary": "투데이e코노믹에서 보도한 주방가전 관련 이슈입니다.",
+      "date": "2026-04-22",
+      "category": "주방가전",
+      "engagement": "출처: 투데이e코노믹",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4xeHF6UXh2d1NxTjJGZE02VFBFRm05Wms0NUVJSnpDMDNCSlRvM2FObkJfWWdIUjBOeE1MWUFkeEhDUEhyLUY1UzBrZW9NR244VUtZeWZhSWlpTjdFeHVQTVVVQ0hyc1E?oc=5"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vcnNzL2FydGljbGVzL0NCTWlha0ZWWDNseFRFOVdjRGQyYlZSVFFWQjJTMVV0YWpaZlYwSm9RV05qU3kxMWFVOTBOV1JLUTNOeWQwaHBVa2RXWTNCdFVsaG1ORmgxWVdGVU5qUjVhRXgxZG1OSmRsVXdabUpQWTJKck5UbExUR3R1UVRCbGFVZGpSRzVPTTBNNGFVUjFlbkY0YldoQ04xRT9vYz01",
+      "source": "구글뉴스",
+      "tag": "월요신문",
+      "title": "후드도, 화력도, AI도 품었다…삼성전자 인피니트 인덕션 출시",
+      "summary": "월요신문에서 보도한 주방가전 관련 이슈입니다.",
+      "date": "2026-04-22",
+      "category": "주방가전",
+      "engagement": "출처: 월요신문",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9WcDd2bVRTQVB2S1UtajZfV0JoQWNjSy11aU90NWRKQ3Nyd0hpUkdWY3BtUlhmNFh1YWFUNjR5aEx1dmNJdlUwZmJPY2JrNTlLTGtuQTBlaUdjRG5OM0M4aUR1enF4bWhCN1E?oc=5"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vcnNzL2FydGljbGVzL0NCTWliRUZWWDNseFRFMVRhamMyUW5sQlJHSnJNbXd3YmxrdE4yTm9RWEJhVmxCWVRrc3lkVEl4YlU5NU9EZHVSbkZQYVZCT2RERjVhVTF2VkhwVFNXdFRXRVYwVjFKRExVUlpaRGN6YTJOcVFsQkNjRGRNYXpOaGNFNXlVVko1WkcxRVZrWkZRVkpTVlRkNldHZDNVZz9vYz01",
+      "source": "구글뉴스",
+      "tag": "한경매거진&북",
+      "title": "현대큐밍, 종합 가전 케어 서비스 출시 토탈 홈케어 영역 확장",
+      "summary": "한경매거진&북에서 보도한 생활용품 관련 이슈입니다.",
+      "date": "2026-03-25",
+      "category": "생활용품",
+      "engagement": "출처: 한경매거진&북",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1Tajc2QnlBRGJrMmwwblktN2NoQXBaVlBYTksydTIxbU95ODduRnFPaVBOdDF5aU1vVHpTSWtTWEV0V1JDLURZZDcza2NqQlBCcDdMazNhcE5yUVJ5ZG1EVkZFQVJSVTd6WGd3Ug?oc=5"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vcnNzL2FydGljbGVzL0NCTWliRUZWWDNseFRGQmlaR0pOVDNsaGJXUkxTRFE0WWpaTllXNU1UM1JuYldwSGNsUm1XRU52U1RCd1pFaFpaMmhJWXpZNGNHVmlkM28xY21KaFpIZGxNRmR0WWtZM2N6WjVXR2haVjBGSldIRktZa1ZqUlUxalVHVXpTbGh0VVhGSlJtNXdaVkJNU1MxelZXdGhSQT9vYz01",
+      "source": "구글뉴스",
+      "tag": "기계설비신문",
+      "title": "현대큐밍, 에어컨·비데 등 생활가전 케어 서비스 출시",
+      "summary": "기계설비신문에서 보도한 생활용품 관련 이슈입니다.",
+      "date": "2026-03-25",
+      "category": "생활용품",
+      "engagement": "출처: 기계설비신문",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBiZGJNT3lhbWRLSDQ4YjZNYW5MT3RnbWpHclRmWENvSTBwZEhZZ2hIYzY4cGVid3o1cmJhZHdlMFdtYkY3czZ5WGhZV0FJWHFKYkVjRU1jUGUzSlhtUXFJRm5wZVBMSS1zVWthRA?oc=5"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vcnNzL2FydGljbGVzL0NCTWlkRUZWWDNseFRFNHdRVmhFTTFsYWNuZE5lVzFvTTB3dFRuRXdiMmhHTldkSVltOURka2x3UldOWFFqSjBSRUpGU0RWYVNuVjZRMVZJT0ROU1dXYzVYMlZvVERSNFltaE5VSHBSVG1VNVJVb3dSR0pHVjBwTVpWRlZRMEZJVFROWGNsRmhNbkJsUkRkUmMwZE1NVkp0WVZsaU4yRlQ_b2M9NQ",
+      "source": "구글뉴스",
+      "tag": "파이낸셜리뷰",
+      "title": "이제 지능형 가전 시대...‘코웨이 아이콘 정수기 3’",
+      "summary": "파이낸셜리뷰에서 보도한 주방가전 관련 이슈입니다.",
+      "date": "2026-03-18",
+      "category": "주방가전",
+      "engagement": "출처: 파이낸셜리뷰",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4wQVhEM1lacndNeW1oM0wtTnEwb2hGNWdIYm9DdklwRWNXQjJ0REJFSDVaSnV6Q1VIODNSWWc5X2VoTDR4YmhNUHpRTmU5RUowRGJGV0pMZVFVQ0FITTNXclFhMnBlRDdRc0dMMVJtYVliN2FT?oc=5"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vcnNzL2FydGljbGVzL0NCTWliRUZWWDNseFRFOVJVVTVaTVVoTVJWOVBSSGxxY21zMVZ6bDBNSFpzYkVSTVJuaFdVQzEzY0c1alQweFNTRk0wYUdWSVRWVk9UekJFYUV4eUxWZFhjVGRyT0VWemMzbFRPVmg2TTJGRVNETlZlalZSVkRsSlNUQmhjRmxMTFc5dWNXVlVkRlZaT1d4R1RtdDRPUT9vYz01",
+      "source": "구글뉴스",
+      "tag": "뉴스탭",
+      "title": "“끓어넘침까지 막았다” 쿠쿠, AI 입힌 인덕션으로 주방가전 승부수",
+      "summary": "뉴스탭에서 보도한 주방가전 관련 이슈입니다.",
+      "date": "2026-03-13",
+      "category": "주방가전",
+      "engagement": "출처: 뉴스탭",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9RUU5ZMUhMRV9PRHlqcms1Vzl0MHZsbERMRnhWUC13cG5jT0xSSFM0aGVITVVOTzBEaExyLVdXcTdrOEVzc3lTOVh6M2FESDNVejVRVDlJSTBhcFlLLW9ucWVUdFVZOWxGTmt4OQ?oc=5"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vcnNzL2FydGljbGVzL0NCTWljRUZWWDNseFRFMDVXR2RQUTFCbWFuWndiamxEU25sRE1reHNSbW8xUjJKUk1XdzJSbWhVV1Y5WVVXMWtWVU16ZG5WQlRsSkRURTlSY3pVemIzTktURmRNVkdsbmExSkVOMWxPWVhKMFdXWkRNbTUyUjBwUlVVbDBja3B6UjNCbFNYazRiQzFPVm0xSGRUQnNZbWhVUTFqU0FYUkJWVjk1Y1V4UVRtZEZYMGRKU0dNdGFVNWxWV1UyWlV4Wk1rSndSRFkwUlZOSVdISXllVWxKVVhZdFdHSktSWGhZV21ZeE5ISmFlV2hPYmtSWmNXRXdVSFJRTFdkRFpYVjNhVE53T1ZkVE5VZHNWelpwWVVad2VtUnpjRnBIY1RSRWRqZGFhakpDYVY4NWNYSkhVbm8xVlZJelFnP29jPTU",
+      "source": "구글뉴스",
+      "tag": "이뉴스투데이",
+      "title": "LG전자, 인덕션 ‘모노라인 글라스’ 출시···주방 가전도 ‘디자인’ 경쟁",
+      "summary": "이뉴스투데이에서 보도한 주방가전 관련 이슈입니다.",
+      "date": "2026-03-05",
+      "category": "주방가전",
+      "engagement": "출처: 이뉴스투데이",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE05WGdPQ1BmanZwbjlDSnlDMkxsRmo1R2JRMWw2RmhUWV9YUW1kVUMzdnVBTlJDTE9RczUzb3NKTFdMVGlna1JEN1lOYXJ0WWZDMm52R0pRUUl0ckpzR3BlSXk4bC1OVm1HdTBsYmhUQ1jSAXRBVV95cUxQTmdFX0dJSGMtaU5lVWU2ZUxZMkJwRDY0RVNIWHIyeUlJUXYtWGJKRXhYWmYxNHJaeWhObkRZcWEwUHRQLWdDZXV3aTNwOVdTNUdsVzZpYUZwemRzcFpHcTREdjdaajJCaV85cXJHUno1VVIzQg?oc=5"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vcnNzL2FydGljbGVzL0NCTWlURUZWWDNseFRGQnlSVUV3YzFaaFFrWXRiVVppTVhwblZVbDZUbWQ0TlZSVGNVSXdhRVJpUkVKWk1GWXlZa0ZtVlhWeVlXWlZkRkZEUnpWUFpuRlVjMnhJY0VWVVZuTnBUMlF5VFVZP29jPTU",
+      "source": "구글뉴스",
+      "tag": "디자인플러스",
+      "title": "〈서울리빙디자인페어〉에서 주목한 2026 리빙 트렌드",
+      "summary": "디자인플러스에서 보도한 홈/리빙 관련 이슈입니다.",
+      "date": "2026-02-27",
+      "category": "홈/리빙",
+      "engagement": "출처: 디자인플러스",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFByRUEwc1ZhQkYtbUZiMXpnVUl6Tmd4NVRTcUIwaERiREJZMFYyYkFmVXVyYWZVdFFDRzVPZnFUc2xIcEVUVnNpT2QyTUY?oc=5"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vcnNzL2FydGljbGVzL0NCTWljRUZWWDNseFRFNWlWaTFyVm1vd2VtVlVUVmxwY21WUmNERlhkblJCV0dwdmNXVkdkSEowV2t4WmJrd3RhMHR4VjJGclowVlhXak0wVlRkV2JHcDNPVk0zU1VWc1N6WnZYMmxEYVZKaVdEazBWbWRVTjBSd0xUQkZNemRYYVhGSVJFTjZkSGQ0Y2xOcVVXbGhlRXROY2xUU0FYUkJWVjk1Y1V4UE9IRklWR3N4VEZReFdraFJUMFp6VW05WWIwTnpVREp0YWpJMk1XNDJibFIyZUZKUFpWRjZaazFxWlRoNVEyaGZUMHBSWms5eFltVTFka1JoUlc5U1pFUnNOako1TW14TVFsbERWblZSVFRaSVNUWnBjbE5rUW13MFpVNWtPRk5oZEdack1tSTVla05GYm5BNU5RP29jPTU",
+      "source": "구글뉴스",
+      "tag": "이뉴스투데이",
+      "title": "[현장] “가구가 주는 삶의 가치”···서울리빙디자인페어2026 팡파르",
+      "summary": "이뉴스투데이에서 보도한 홈/리빙 관련 이슈입니다.",
+      "date": "2026-02-26",
+      "category": "홈/리빙",
+      "engagement": "출처: 이뉴스투데이",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5iVi1rVmowemVUTVlpcmVRcDFXdnRBWGpvcWVGdHJ0WkxZbkwta0txV2FrZ0VXWjM0VTdWbGp3OVM3SUVsSzZvX2lDaVJiWDk0VmdUN0RwLTBFMzdXaXFIREN6dHd4clNqUWlheEtNclTSAXRBVV95cUxPOHFIVGsxTFQxWkhRT0ZzUm9Yb0NzUDJtajI2MW42blR2eFJPZVF6Zk1qZTh5Q2hfT0pRZk9xYmU1dkRhRW9SZERsNjJ5MmxMQllDVnVRTTZISTZpclNkQmw0ZU5kOFNhdGZrMmI5ekNFbnA5NQ?oc=5"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vcnNzL2FydGljbGVzL0NCTWlaRUZWWDNseFRGQnllVEE1TlVad1lqbG1lVk16U1VOalYyeDRXRVpSUlhOVmQyYzJMWE5oTlZWamEyczVWMDFXUTFkNWJ6aHdSVmRaWjNwaFducGpjbG80WlMxTGNEZzRiekIxU2tKQmVFTjNWMVl3VUU0NFF6Y3pNbHBLY1ZKQk9HSTVYMEU_b2M9NQ",
+      "source": "구글뉴스",
+      "tag": "MTN 머니투데이방송",
+      "title": "[현장톡톡] 510개 브랜드·리빙 트렌드 총망라…서울리빙디자인페어",
+      "summary": "MTN 머니투데이방송에서 보도한 홈/리빙 관련 이슈입니다.",
+      "date": "2026-02-25",
+      "category": "홈/리빙",
+      "engagement": "출처: MTN 머니투데이방송",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFByeTA5NUZwYjlmeVMzSUNjV2x4WEZRRXNVd2c2LXNhNVVja2s5V01WQ1d5bzhwRVdZZ3phWnpjclo4ZS1LcDg4bzB1SkJBeEN3V1YwUE44QzczMlpKcVJBOGI5X0E?oc=5"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vcnNzL2FydGljbGVzL0NCTWlWa0ZWWDNseFRGQk5VbHBPWkROa1FrdE5ZbEp5TmpnNWFYQkVVbWRUTURKb0xXNW5XWGd6TkZoWlpuUmljSGhMY2tVNFVWRm5PRGhYVFhab2VtcFhhbEZxY25sNWRtcFdObTlqVVdSTk9IQlpSMHQ2UmpkMz9vYz01",
+      "source": "구글뉴스",
+      "tag": "지디넷코리아",
+      "title": "스마트카라, 에어프라이어 출시…주방가전 진출",
+      "summary": "지디넷코리아에서 보도한 주방가전 관련 이슈입니다.",
+      "date": "2026-02-23",
+      "category": "주방가전",
+      "engagement": "출처: 지디넷코리아",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBNUlpOZDNkQktNYlJyNjg5aXBEUmdTMDJoLW5nWXgzNFhZZnRicHhLckU4UVFnODhXTXZoempXalFqcnl5dmpWNm9jUWRNOHBZR0t6Rjd3?oc=5"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vcnNzL2FydGljbGVzL0NCTWlXMEZWWDNseFRFNXZhRmxGZGkweE5IRnNiWFIwVDNWaWVVUkNaRVZGUldoVE4xUnJPVVpWVVhFeFIwWjJia3N4YUVOb1owSjFVbmN6TVROYVVtZFVVMnRhUTJrNFV6QlpVM2wyVEU5Mk9VdFlPVlZFU0dwWWVXODNZVlhTQVdCQlZWOTVjVXhOVVdSa04wcHBSVTE2UlZCMmRYb3RUa0YzUkVnMFdIQXRhMVl5TVdkeE4xQXlVbWhEVTFWek9HTnZXV2haY2s1WVFWRm1ka1YyUVdkWVUwNTFXRFV5TUZobmJUTmlNMVZaT0ZaRFZFRTNaVGxqZVd4a2N6Qm5Sams_b2M9NQ",
+      "source": "구글뉴스",
+      "tag": "연합뉴스",
+      "title": "LG전자, 超프리미엄 가전경험 세탁실로…'SKS 런드리' 첫선",
+      "summary": "연합뉴스에서 보도한 생활용품 관련 이슈입니다.",
+      "date": "2026-02-18",
+      "category": "생활용품",
+      "engagement": "출처: 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5vaFlFdi0xNHFsbXR0T3VieURCZEVFRWhTN1RrOUZVUXExR0Z2bksxaENoZ0J1UnczMTNaUmdUU2taQ2k4UzBZU3l2TE92OUtYOVVESGpYeW83YVXSAWBBVV95cUxNUWRkN0ppRU16RVB2dXotTkF3REg0WHAta1YyMWdxN1AyUmhDU1VzOGNvWWhZck5YQVFmdkV2QWdYU051WDUyMFhnbTNiM1VZOFZDVEE3ZTljeWxkczBnRjk?oc=5"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vcnNzL2FydGljbGVzL0NCTWllMEZWWDNseFRFOTZXazVQVkhobk1UbG1SSFZYVGxSaFZXTmlVR014T1hwSWJGVk5SelV5V0ZkUGVYZFlRVUpTU0c1d1UySkhMVzVYT1c0eFdWOXFZM2hsU1hwSVozWlBMVEJHWTFaUlREZHViVnBNWnpFeVpVNVdZMkpXVjBkRWF6WlpjVk5tYXpRd2JtMVdjamhKWWxONVltRmpXR2QwVkZOU1NRP29jPTU",
+      "source": "구글뉴스",
+      "tag": "비욘드포스트",
+      "title": "폿츠컴퍼니 KLIF, 세계 최대 리빙 디자인 전시회 '2026 메종&오브제' 참가",
+      "summary": "비욘드포스트에서 보도한 홈/리빙 관련 이슈입니다.",
+      "date": "2026-01-09",
+      "category": "홈/리빙",
+      "engagement": "출처: 비욘드포스트",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE96Wk5PVHhnMTlmRHVXTlRhVWNiUGMxOXpIbFVNRzUyWFdPeXdYQUJSSG5wU2JHLW5XOW4xWV9qY3hlSXpIZ3ZPLTBGY1ZRTDdubVpMZzEyZU5WY2JWV0dEazZZcVNmazQwbm1WcjhJYlN5YmFjWGd0VFNSSQ?oc=5"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vcnNzL2FydGljbGVzL0NCTWlha0ZWWDNseFRFMUJOamR3ZDI1dlZWRmtkMm8xV0hGeExXUkROMFZ4WVZFdFRraEtUM0p0YldwaWQwdHFiMHR2Y2pOSFpVSklZemRIVHkxVFJtUXdSV3QzVXpFemRraDBTWEkzVGxCM1gwOXdRV3BHZUVFd1dYVXRWalUzTnpGMU1GSkZiakJKUjFnMU9IYz9vYz01",
+      "source": "구글뉴스",
+      "tag": "나무신문",
+      "title": "한국 리빙의 감동, 2025 홈·테이블데코페어 성료",
+      "summary": "나무신문에서 보도한 홈/리빙 관련 이슈입니다.",
+      "date": "2025-12-31",
+      "category": "홈/리빙",
+      "engagement": "출처: 나무신문",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1BNjdwd25vVVFkd2o1WHFxLWRDN0VxYVEtTkhKT3JtbWpid0tqb0tvcjNHZUJIYzdHTy1TRmQwRWt3UzEzdkh0SXI3TlB3X09wQWpGeEEwWXUtVjU3NzF1MFJFbjBJR1g1OHc?oc=5"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vcnNzL2FydGljbGVzL0NCTWlZMEZWWDNseFRGQlNiVGRvZW1WSVJ6WkJjVlZCYVcxT1UwNWhXRVJwYnpGaFkwWXhVRXRsTmpaTmVXZGtTSEJzT0dsTU5EVTBhV2hzYjBRNWRGTndPR0l3ZFVvM05qQXhaV1ZITVZFMlEyNVNVMDB3U2poWFJtRnJibkl4YkZkS2N6bGliOUlCYkVGVlgzbHhURTFRUm0xQlQyZE9ZVk5vY0UxMlkyUXRMWGRoVVZwck4ySXhUbFpNVTBGbGNHOXRjMlpFTjBVNGMxZGxUV0pEWXpWRGIxRmlPRGg0Y21aTFJtOHpYM1JzTkVSNWRGazRjbXgzYVZScFdsbEhkRGhHVFhOc2QyWTBWMWxqYWw5RFdtUkVRbWhWVFE_b2M9NQ",
+      "source": "구글뉴스",
+      "tag": "소셜밸류",
+      "title": "국내 최대 규모 리빙 전시 ‘2026 서울리빙디자인페어’ 얼리버드 티켓 오픈",
+      "summary": "소셜밸류에서 보도한 홈/리빙 관련 이슈입니다.",
+      "date": "2025-12-18",
+      "category": "홈/리빙",
+      "engagement": "출처: 소셜밸류",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBSbTdoemVIRzZBcVVBaW1OU05hWERpbzFhY0YxUEtlNjZNeWdkSHBsOGlMNDU0aWhsb0Q5dFNwOGIwdUo3NjAxZWVHMVE2Q25SU00wSjhXRmFrbnIxbFdKczlib9IBbEFVX3lxTE1QRm1BT2dOYVNocE12Y2QtLXdhUVprN2IxTlZMU0FlcG9tc2ZEN0U4c1dlTWJDYzVDb1FiODh4cmZLRm8zX3RsNER5dFk4cmx3aVRpWllHdDhGTXNsd2Y0V1ljal9DWmREQmhVTQ?oc=5"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vcnNzL2FydGljbGVzL0NCTWlka0ZWWDNseFRFNTJWa1J2TjJsNlpUWm9VMHBGTFVVeVIyODJibTgxVldWc1YwUkVkemwzWkRVM09IaFNZbUZpVUZCcU16Y3pMVlk1UzFwSWJIZEpWekpoU0RjMFdrTkpTRzB4TTBkT2RWVlhTa1ZCWVZaTmJIWkpaVkp2UkdFd2NFczJibTQwUzJsRVJEaGFSWHB0YVdSc1pWRTNiMUU_b2M9NQ",
+      "source": "구글뉴스",
+      "tag": "eyesmag.com",
+      "title": "새해 맞이 방꾸하기, 2026 리빙 트렌드",
+      "summary": "eyesmag.com에서 보도한 홈/리빙 관련 이슈입니다.",
+      "date": "2025-12-13",
+      "category": "홈/리빙",
+      "engagement": "출처: eyesmag.com",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE52VkRvN2l6ZTZoU0pFLUUyR282bm81VWVsV0REdzl3ZDU3OHhSYmFiUFBqMzczLVY5S1pIbHdJVzJhSDc0WkNJSG0xM0dOdVVXSkVBYVZNbHZJZVJvRGEwcEs2bm40S2lERDhaRXptaWRsZVE3b1E?oc=5"
     }
   ],
-  "generatedAt": "2026-08-18T04:43:00.392Z"
+  "generatedAt": "2026-08-18T05:17:10.066Z"
 }
