@@ -2,6 +2,17 @@
   "available": true,
   "items": [
     {
+      "id": "foodrecipe-aHR0cHM6Ly9mb29kcmVjaXBlLmNvLmtyL2tpdGNoZW4tdGlwcy9taWNyb3dhdmUtb2Rvci1yZW1vdmFsLXZpbmVnYXItc29qdS1tZXRob2RzLw",
+      "source": "푸드레시피",
+      "tag": "소주",
+      "title": "“전자레인지에 ‘이 액체’ 넣어보세요”… 1분 만에 찌든 냄새가 싹 사라집니다",
+      "summary": "전자레인지에 남아 있는 음식 악취가 고민이라면 소주나 식초를 활용해 보세요. 찌꺼기를 불려 닦아내는 식초와 단 1분 가열로 악취를 잡는 소주 활용법을 소개합니다.",
+      "date": "2026-09-02",
+      "category": "주방용품 & 리빙 아이디어",
+      "engagement": "작성: 조은아 기자",
+      "link": "https://foodrecipe.co.kr/kitchen-tips/microwave-odor-removal-vinegar-soju-methods/"
+    },
+    {
       "id": "foodrecipe-aHR0cHM6Ly9mb29kcmVjaXBlLmNvLmtyL2tpdGNoZW4tdGlwcy9lbGVjdHJpYy1jb29rdG9wLXN0YWluLWNsZWFuaW5nLW1ldGhvZHMv",
       "source": "푸드레시피",
       "tag": "레몬즙",
@@ -46,17 +57,6 @@
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9EdjNTMExFYzRCTnR5Q2MwekE5cWRGRzRzLTJaR05nMUg0MHZqZW1rUWdmOGVoUnk4SlNCRHFBdDRIQkM4Z1Z0UU80ZFF0TWxiMmhoUkNOUEJvZ19Y?oc=5"
     },
     {
-      "id": "rss-aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vcnNzL2FydGljbGVzL0NCTWlia0ZWWDNseFRFOVdXV0kzUVY5MFdVRXpZbWRUU0ZsaU9VcFlkbFkwYkZCUE1tSnhiVGxQY21KUVdFdzRNVnBYUjI5SWIwcERabVJLYmtGVWFEbHliRVJaWDNWU1pWaHVaVkE1UjBOcVlsSnlUMVpmUlV0WVNHaEdTMWg0WlVOTk5VaFVaMVJYYTFwb00xTlFaVTlSMGdGelFWVmZlWEZNVUdwdWFYaFJkMHBxZERkcmEwdEZOVk5NWmpOMlUwZGFTa1pxTjNaaVYySmpha3BVZDBwUE0xbHFTRUZZVW5wYWJtSlRXbGhCYWtaWFQwNVliMWRzUVZOSWJtSTJSMGRFWm1kTVFqUnJYMlJxVEcxbmRqZEtjMTlaTFdKbVFtRkVUbVZKTUc0NVZUZ3RNMEZhU1E_b2M9NQ",
-      "source": "구글뉴스",
-      "tag": "한국일보",
-      "title": "빨래 옮기는 번거로움 없이 한 통에서 세탁부터 건조까지 한번에",
-      "summary": "한국일보에서 보도한 패브릭 & 의류 케어 관련 이슈입니다.",
-      "date": "2026-09-02",
-      "category": "패브릭 & 의류 케어",
-      "engagement": "출처: 한국일보",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9WWWI3QV90WUEzYmdTSFliOUpYdlY0bFBPMmJxbTlPcmJQWEw4MVpXR29Ib0pDZmRKbkFUaDlybERZX3VSZVhuZVA5R0NqYlJyT1ZfRUtYSGhGS1h4ZUNNNUhUZ1RXa1poM1NQZU9R0gFzQVVfeXFMUGpuaXhRd0pqdDdra0tFNVNMZjN2U0daSkZqN3ZiV2JjakpUd0pPM1lqSEFYUnpabmJTWlhBakZXT05Yb1dsQVNIbmI2R0dEZmdMQjRrX2RqTG1ndjdKc19ZLWJmQmFETmVJMG45VTgtM0FaSQ?oc=5"
-    },
-    {
       "id": "rss-aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vcnNzL2FydGljbGVzL0NCTWlhRUZWWDNseFRFOW5OWEJpVUZKV00yY3pVRmxuT1RCTk9YSnlhM2QyTnpoMVlXaFRiRTAzTUV3eVFVOUdhRk5FWnpNMFlraHVSblJQT0dORGRteHBReTF0V1ZwTFExUTRNREUwYkVKU1RHUm5hVUkwZEdKU1ozQldaSGhrYm1sa1pWQk9TVEJTTkVZeD9vYz01",
       "source": "구글뉴스",
       "tag": "테크월드",
@@ -66,6 +66,17 @@
       "category": "패브릭 & 의류 케어",
       "engagement": "출처: 테크월드",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9nNXBiUFJWM2czUFlnOTBNOXJya3d2Nzh1YWhTbE03MEwyQU9GaFNEZzM0YkhuRnRPOGNDdmxpQy1tWVpLQ1Q4MDE0bEJSTGRnaUI0dGJSZ3BWZHhkbmlkZVBOSTBSNEYx?oc=5"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vcnNzL2FydGljbGVzL0NCTWlia0ZWWDNseFRFOVdXV0kzUVY5MFdVRXpZbWRUU0ZsaU9VcFlkbFkwYkZCUE1tSnhiVGxQY21KUVdFdzRNVnBYUjI5SWIwcERabVJLYmtGVWFEbHliRVJaWDNWU1pWaHVaVkE1UjBOcVlsSnlUMVpmUlV0WVNHaEdTMWg0WlVOTk5VaFVaMVJYYTFwb00xTlFaVTlSMGdGelFWVmZlWEZNVUdwdWFYaFJkMHBxZERkcmEwdEZOVk5NWmpOMlUwZGFTa1pxTjNaaVYySmpha3BVZDBwUE0xbHFTRUZZVW5wYWJtSlRXbGhCYWtaWFQwNVliMWRzUVZOSWJtSTJSMGRFWm1kTVFqUnJYMlJxVEcxbmRqZEtjMTlaTFdKbVFtRkVUbVZKTUc0NVZUZ3RNMEZhU1E_b2M9NQ",
+      "source": "구글뉴스",
+      "tag": "한국일보",
+      "title": "빨래 옮기는 번거로움 없이 한 통에서 세탁부터 건조까지 한번에",
+      "summary": "한국일보에서 보도한 패브릭 & 의류 케어 관련 이슈입니다.",
+      "date": "2026-09-02",
+      "category": "패브릭 & 의류 케어",
+      "engagement": "출처: 한국일보",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9WWWI3QV90WUEzYmdTSFliOUpYdlY0bFBPMmJxbTlPcmJQWEw4MVpXR29Ib0pDZmRKbkFUaDlybERZX3VSZVhuZVA5R0NqYlJyT1ZfRUtYSGhGS1h4ZUNNNUhUZ1RXa1poM1NQZU9R0gFzQVVfeXFMUGpuaXhRd0pqdDdra0tFNVNMZjN2U0daSkZqN3ZiV2JjakpUd0pPM1lqSEFYUnpabmJTWlhBakZXT05Yb1dsQVNIbmI2R0dEZmdMQjRrX2RqTG1ndjdKc19ZLWJmQmFETmVJMG45VTgtM0FaSQ?oc=5"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vcnNzL2FydGljbGVzL0NCTWlTRUZWWDNseFRFMUlRWEJSWjBodlRIRkdhRlV5Y1ZwWVJsVlBXbXN5WHkxWlFsTldNelZCVFY5SVFqaDNaRE52U25wZlZrdDFTSFZOVTFSbVpHODNUbWd0TkhWeFZFaGFTUT9vYz01",
@@ -79,15 +90,15 @@
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1IQXBRZ0hvTHFGaFUycVpYRlVPWmsyXy1ZQlNWMzVBTV9IQjh3ZDNvSnpfVkt1SHVNU1RmZG83TmgtNHVxVEhaSQ?oc=5"
     },
     {
-      "id": "rss-aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vcnNzL2FydGljbGVzL0NCTWljRUZWWDNseFRGQTRhbTEwTWtKamJFazVNbE5qZWxZd2JITXdjRk5DZFZOTWJVVnBRWE5JZFZaSmJqaG9SMjEwUmpKUU1ESnFNR3g2WW1SdGRrVk5UbWMyTmxvek1saEtUMTg1T0RGQlFrUlJNMll3ZUhSdldVNDJOSHBxYlMxMmJHNDRWR0pRV0daeVEzbHpNVVoyVW1vP29jPTU",
+      "id": "rss-aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vcnNzL2FydGljbGVzL0NCTWljRUZWWDNseFRFNWxjRWhNU0ZGeVVVRXphMmRTVWtoQ1R6bFhhSGhzVmtWc05taFlSbU5FWW5nMVoyUkhOVGcyTUdsWVpEUklNMHRVVlZsRlVGcEtkbDlTUzNGS2FWTnRPRlI1WDB3d1MwNWhXVFUyUkVoaGJERnJRekJGYjFaRmNubGxObmQwWjNwUVZWZGFUa28zVjJJP29jPTU",
       "source": "구글뉴스",
-      "tag": "오토트리뷴",
-      "title": "\"물티슈 한 장, 빨래와 함께 돌리지 마세요\"... 세탁기 '여기' 닦을 때 더 쓸모 있습니다",
-      "summary": "오토트리뷴에서 보도한 패브릭 & 의류 케어 관련 이슈입니다.",
+      "tag": "전국뉴스",
+      "title": "[생활기술] 세탁표시 읽는 법..세탁기 넣기 전 라벨부터 확인",
+      "summary": "전국뉴스에서 보도한 패브릭 & 의류 케어 관련 이슈입니다.",
       "date": "2026-09-02",
       "category": "패브릭 & 의류 케어",
-      "engagement": "출처: 오토트리뷴",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA4am10MkJjbEk5MlNjelYwbHMwcFNCdVNMbUVpQXNIdVZJbjhoR210RjJQMDJqMGx6YmRtdkVNTmc2NlozMlhKT185ODFBQkRRM2YweHRvWU42NHpqbS12bG44VGJQWGZyQ3lzMUZ2Umo?oc=5"
+      "engagement": "출처: 전국뉴스",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5lcEhMSFFyUUEza2dSUkhCTzlXaHhsVkVsNmhYRmNEYng1Z2RHNTg2MGlYZDRIM0tUVVlFUFpKdl9SS3FKaVNtOFR5X0wwS05hWTU2REhhbDFrQzBFb1ZFcnllNnd0Z3pQVVdaTko3V2I?oc=5"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vcnNzL2FydGljbGVzL0NCTWlVRUZWWDNseFRFMWFjRWRTU0c1d1kzTXlTazlmTTI5RlIycFJUSFJWYlVWaFVIaFZjVkY1TjNrNWF6STNWbmsyTm5GbldFeGpVbGhuVEhKeFgzRllTRkZPU0dwSWRVSkJOakUxUTNWVGIzTTI_b2M9NQ",
@@ -99,6 +110,17 @@
       "category": "패브릭 & 의류 케어",
       "engagement": "출처: 매일경제",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1acEdSSG5wY3MySk9fM29FR2pRTHRVbUVhUHhVcVF5N3k5azI3Vnk2NnFnWExjUlhnTHJxX3FYSFFOSGpIdUJBNjE1Q3VTb3M2?oc=5"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vcnNzL2FydGljbGVzL0NCTWljRUZWWDNseFRGQTRhbTEwTWtKamJFazVNbE5qZWxZd2JITXdjRk5DZFZOTWJVVnBRWE5JZFZaSmJqaG9SMjEwUmpKUU1ESnFNR3g2WW1SdGRrVk5UbWMyTmxvek1saEtUMTg1T0RGQlFrUlJNMll3ZUhSdldVNDJOSHBxYlMxMmJHNDRWR0pRV0daeVEzbHpNVVoyVW1vP29jPTU",
+      "source": "구글뉴스",
+      "tag": "오토트리뷴",
+      "title": "\"물티슈 한 장, 빨래와 함께 돌리지 마세요\"... 세탁기 '여기' 닦을 때 더 쓸모 있습니다",
+      "summary": "오토트리뷴에서 보도한 패브릭 & 의류 케어 관련 이슈입니다.",
+      "date": "2026-09-02",
+      "category": "패브릭 & 의류 케어",
+      "engagement": "출처: 오토트리뷴",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA4am10MkJjbEk5MlNjelYwbHMwcFNCdVNMbUVpQXNIdVZJbjhoR210RjJQMDJqMGx6YmRtdkVNTmc2NlozMlhKT185ODFBQkRRM2YweHRvWU42NHpqbS12bG44VGJQWGZyQ3lzMUZ2Umo?oc=5"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vcnNzL2FydGljbGVzL0NCTWlWa0ZWWDNseFRFNVhRVGN3T0RGVFRGTTJUVkZCZWpkb0xVcEJSVWxYTFZWd05ucElVVFJYU2pOcmVtOXhSVzVOT0c1elFrMVhXVFp5U2sxck5uUmZPR1pvYWtRNVJVVjBlWEoxVG5GMlJrNTVWblZCWVUxbj9vYz01",
@@ -200,17 +222,6 @@
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9IYkZCWktsUnVsNGZESFNTLVRMSTVpa3hlNi1RZ2VoSnJfWEduTnVESHNJVGFjR2Z0MmNGOVJ5UkFzalpQU3NMS0tESEF3TnNQb0tITUJtbUctWk5IcV9sMFlobw?oc=5"
     },
     {
-      "id": "rss-aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vcnNzL2FydGljbGVzL0NCTWljRUZWWDNseFRFMHlkVGxCU1Y5NU4wRjVYMDVoTUVzMGEwaE1NRjlhU21OMlZtZEpaVGxTY3poV1ZITkNRVWhwV2xCdVJGbDVVR0pyUnpSbVFUSkRURlJKY1VkeVdWRmxWVE5uYW1vNGFWSXhOamd4YmtOMlYxaFBha0ZFVnpKT1VrNTNVV0ZvTUd4UGJ6ZFJTVlpuYkVzP29jPTU",
-      "source": "구글뉴스",
-      "tag": "전국뉴스",
-      "title": "[청소행정 디지털 혁신]관악구 ‘스마트 청소행정’ 성과 인정…ICT AWARD KOREA 장관상 수상",
-      "summary": "전국뉴스에서 보도한 홈케어 & 위생/청소 관련 이슈입니다.",
-      "date": "2026-09-02",
-      "category": "홈케어 & 위생/청소",
-      "engagement": "출처: 전국뉴스",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0ydTlBSV95N0F5X05hMEs0a0hMMF9aSmN2VmdJZTlSczhWVHNCQUhpWlBuRFl5UGJrRzRmQTJDTFRJcUdyWVFlVTNnamo4aVIxNjgxbkN2V1hPakFEVzJOUk53UWFoMGxPbzdRSVZnbEs?oc=5"
-    },
-    {
       "id": "rss-aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vcnNzL2FydGljbGVzL0NCTWlqd0ZCVlY5NWNVeFFTVkYxVjFkaGVsZzJkMmN0T1RoME0wRXlaRjlxUnpKcVFVNWpRMWxFVFdkUFJETmFXR0p0YVVkUVpWTkZhVU5MU1d4WWVsSnZjMDF3WjBsVVdpMWZSMU50WDJscmFtUXRXa2xZZUZreU1rNUtiWEpRVDNWdFowMUdWblkwZFRadWFUTnBOVmhYWDBFNGVXdHJUalpCWjJGMmFGRkNiRVkzYlhablFscHBiMHBLYWsxS2N6QTFhdz9vYz01",
       "source": "구글뉴스",
       "tag": "Naver Blog",
@@ -220,17 +231,6 @@
       "category": "홈케어 & 위생/청소",
       "engagement": "출처: Naver Blog",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSVF1V1dhelg2d2ctOTh0M0EyZF9qRzJqQU5jQ1lETWdPRDNaWGJtaUdQZVNFaUNLSWxYelJvc01wZ0lUWi1fR1NtX2lramQtWklYeFkyMk5KbXJQT3VtZ01GVnY0dTZuaTNpNVhXX0E4eWtrTjZBZ2F2aFFCbEY3bXZnQlppb0pKak1KczA1aw?oc=5"
-    },
-    {
-      "id": "rss-aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vcnNzL2FydGljbGVzL0NCTWlnZ0ZCVlY5NWNVeE9hVFJ4WVc5d2NpMWZXVlp2YUhCclRqTlZNMFZTVjFSWFlYSm5WWHBTYXkwNU1uRkpaVmxGY0VKdU4wbEhibUp5Y1dKRU1FNWxSVE15TUV0aVZEbHVTRWMwVVVWdVdGOXhSRzlJZEhKVldXOVdaWFpJUkROb01FcDVPRXQwZUU5S05HaGhNREpaYzFselFuZHVia1pHVWtrelVXSXhTR3h0T0V0MzBnR1dBVUZWWDNseFRGQllOMko2ZFRVNFUxaE9VVFZCY0U4NVl6UTRhRGh5U0VWNk5HODVXVkJEYmpWUVJ5MVZORTFtVkd4U1NDMW9SbW81Tmw4MVdFUnZOME5pWjA1aVgwVkhNM0ZVY0hSUVpUaEJVbkZmZUV0NlVWVkdiVGhCVHkxNFozcEdka2d5Tm1GNWREVTNOekpITVVweVl6RkpNazR6Tm5wT2RUTjRjM2N3VFV3M2JsSkRVV1I0YW5SM2VFOWhabVEzWHpWWVp3P29jPTU",
-      "source": "구글뉴스",
-      "tag": "biz.chosun.com",
-      "title": "[IFA 2026] 국산 AI 반도체로 움직이는 청소로봇… 라이노스, 유럽 시장 노크 - 조선비즈",
-      "summary": "biz.chosun.com에서 보도한 홈케어 & 위생/청소 관련 이슈입니다.",
-      "date": "2026-09-02",
-      "category": "홈케어 & 위생/청소",
-      "engagement": "출처: biz.chosun.com",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOaTRxYW9wci1fWVZvaHBrTjNVM0VSV1RXYXJnVXpSay05MnFJZVlFcEJuN0lHbmJycWJEME5lRTMyMEtiVDluSEc0UUVuWF9xRG9IdHJVWW9WZXZIRDNoMEp5OEt0eE9KNGhhMDJZc1lzQndubkZGUkkzUWIxSGxtOEt30gGWAUFVX3lxTFBYN2J6dTU4U1hOUTVBcE85YzQ4aDhySEV6NG85WVBDbjVQRy1VNE1mVGxSSC1oRmo5Nl81WERvN0NiZ05iX0VHM3FUcHRQZThBUnFfeEt6UVVGbThBTy14Z3pGdkgyNmF5dDU3NzJHMUpyYzFJMk4zNnpOdTN4c3cwTUw3blJDUWR4anR3eE9hZmQ3XzVYZw?oc=5"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vcnNzL2FydGljbGVzL0NCTWlaa0ZWWDNseFRFMU1TWEZJUjJ4MmQyaE1UMUZwWkVVeU4yZ3hPVlJYZGkxSlgxcFpjak5DV21GalVVZDZUWGt3YVc4eFYyWjJRa0UzV1ZWQ00yVlFkR2htTm13MGNYZzJkelkxT0hsRFZVeGpiRmxtV0hjNFlsTkpVRVZNZWtoUVJ6aGZMV1pRVVE_b2M9NQ",
@@ -244,6 +244,17 @@
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1MSXFIR2x2d2hMT1FpZEUyN2gxOVRXdi1JX1pZcjNCWmFjUUd6TXkwaW8xV2Z2QkE3WVVCM2VQdGhmNmw0cXg2dzY1OHlDVUxjbFlmWHc4YlNJUEVMekhQRzhfLWZQUQ?oc=5"
     },
     {
+      "id": "rss-aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vcnNzL2FydGljbGVzL0NCTWlnZ0ZCVlY5NWNVeE9hVFJ4WVc5d2NpMWZXVlp2YUhCclRqTlZNMFZTVjFSWFlYSm5WWHBTYXkwNU1uRkpaVmxGY0VKdU4wbEhibUp5Y1dKRU1FNWxSVE15TUV0aVZEbHVTRWMwVVVWdVdGOXhSRzlJZEhKVldXOVdaWFpJUkROb01FcDVPRXQwZUU5S05HaGhNREpaYzFselFuZHVia1pHVWtrelVXSXhTR3h0T0V0MzBnR1dBVUZWWDNseFRGQllOMko2ZFRVNFUxaE9VVFZCY0U4NVl6UTRhRGh5U0VWNk5HODVXVkJEYmpWUVJ5MVZORTFtVkd4U1NDMW9SbW81Tmw4MVdFUnZOME5pWjA1aVgwVkhNM0ZVY0hSUVpUaEJVbkZmZUV0NlVWVkdiVGhCVHkxNFozcEdka2d5Tm1GNWREVTNOekpITVVweVl6RkpNazR6Tm5wT2RUTjRjM2N3VFV3M2JsSkRVV1I0YW5SM2VFOWhabVEzWHpWWVp3P29jPTU",
+      "source": "구글뉴스",
+      "tag": "biz.chosun.com",
+      "title": "[IFA 2026] 국산 AI 반도체로 움직이는 청소로봇… 라이노스, 유럽 시장 노크 - 조선비즈",
+      "summary": "biz.chosun.com에서 보도한 홈케어 & 위생/청소 관련 이슈입니다.",
+      "date": "2026-09-02",
+      "category": "홈케어 & 위생/청소",
+      "engagement": "출처: biz.chosun.com",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOaTRxYW9wci1fWVZvaHBrTjNVM0VSV1RXYXJnVXpSay05MnFJZVlFcEJuN0lHbmJycWJEME5lRTMyMEtiVDluSEc0UUVuWF9xRG9IdHJVWW9WZXZIRDNoMEp5OEt0eE9KNGhhMDJZc1lzQndubkZGUkkzUWIxSGxtOEt30gGWAUFVX3lxTFBYN2J6dTU4U1hOUTVBcE85YzQ4aDhySEV6NG85WVBDbjVQRy1VNE1mVGxSSC1oRmo5Nl81WERvN0NiZ05iX0VHM3FUcHRQZThBUnFfeEt6UVVGbThBTy14Z3pGdkgyNmF5dDU3NzJHMUpyYzFJMk4zNnpOdTN4c3cwTUw3blJDUWR4anR3eE9hZmQ3XzVYZw?oc=5"
+    },
+    {
       "id": "rss-aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vcnNzL2FydGljbGVzL0NCTWlaa0ZWWDNseFRGQm1ObFZ0VUdWbExWbHRXblZ4U1Roc1FYRjJVWEJ0UXpBM2RYTkhWbVpwY0Y5VGMwTjVPRU5uY1ZaelEzVlRhRGR4YVROemJVZG9NVVUwZVcxSFFXdHdjVkp1ZEhvelNrUkpaRVJxTlV4eE1XVlhNalY2TW5CMWRXcEZRbTFZVVE_b2M9NQ",
       "source": "구글뉴스",
       "tag": "뉴시스",
@@ -255,29 +266,29 @@
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBmNlVtUGVlLVltWnVxSThsQXF2UXBtQzA3dXNHVmZpcF9Tc0N5OENncVZzQ3VTaDdxaTNzbUdoMUU0eW1HQWtwcVJudHozSkRJZERqNUxxMWVXMjV6MnB1dWpFQm1YUQ?oc=5"
     },
     {
-      "id": "rss-aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vcnNzL2FydGljbGVzL0NCTWlhMEZWWDNseFRFNTNjVlEwVTBOVFQyTlJPRWRzTTBkSmVIRlJka0ZKU2paM2FHOXRhVk5XTVhCc1YzaEpTR2hEVmxBd1Vtd3lkVGxQWmpsaGVIbG1iMWRQVWtOSVZ6bFVTbTFoUkZCUlZtZzNkM0k1UVZCV2VXSjJRMEZYWTNsVFJIRmZZV2xqY3pKb2NqaG4_b2M9NQ",
+      "id": "rss-aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vcnNzL2FydGljbGVzL0NCTWljMEZWWDNseFRFMW5aVXh3UzJ4Q2MydHBaR0pmTkhGTk5HWTNRMFpHT0c0d1lUbDVjM05FZG5WdWNrbFRXVVJpVUZkUWJVRndPWGRhTW5oTmRERnpObGcxVEhkMlprcHFVREZqVmxSVFdubHRWSEIyY0VKaFFUQldVblpQV0VWQ1pGUjNURkYyYUZVeGMyZDZjRlJrY0hSS1NVSFNBWGRCVlY5NWNVeE9jelpSUkVWR2NsRkRZMlV3V1VGb2RHUm5hMnRWV0cxck9EWk1WVnBHUkZWMlN5MDJZMFpHTkRSak5XNXZjbTFLVUVoblpYSXlNVVF5Ym5OQ1ltaDRVbDk2U0hSRmFHMWZkRFZGV0V4RVVWbHdWMEZsTlhNMlJURk5TR0ZLWDBWQ1EwZE9RbEphYmtnM2Mwa3hWRlZUT0E_b2M9NQ",
       "source": "구글뉴스",
-      "tag": "미디어픽",
-      "title": "라이노스, 국산 AI반도체 기반 자율주행 청소로봇 개발… IFA 2026서 첫 공개",
-      "summary": "미디어픽에서 보도한 홈케어 & 위생/청소 관련 이슈입니다.",
+      "tag": "핀포인트뉴스",
+      "title": "관악구, 청소행정 디지털 솔루션으로 과기정통부 장관상 수상",
+      "summary": "핀포인트뉴스에서 보도한 홈케어 & 위생/청소 관련 이슈입니다.",
       "date": "2026-09-02",
       "category": "홈케어 & 위생/청소",
-      "engagement": "출처: 미디어픽",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE53cVQ0U0NTT2NROEdsM0dJeHFRdkFJSjZ3aG9taVNWMXBsV3hJSGhDVlAwUmwydTlPZjlheHlmb1dPUkNIVzlUSm1hRFBRVmg3d3I5QVBWeWJ2Q0FXY3lTRHFfYWljczJocjhn?oc=5"
+      "engagement": "출처: 핀포인트뉴스",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1nZUxwS2xCc2tpZGJfNHFNNGY3Q0ZGOG4wYTl5c3NEdnVucklTWURiUFdQbUFwOXdaMnhNdDFzNlg1THd2ZkpqUDFjVlRTWnltVHB2cEJhQTBWUnZPWEVCZFR3TFF2aFUxc2d6cFRkcHRKSUHSAXdBVV95cUxOczZRREVGclFDY2UwWUFodGRna2tVWG1rODZMVVpGRFV2Sy02Y0ZGNDRjNW5vcm1KUEhnZXIyMUQybnNCYmh4Ul96SHRFaG1fdDVFWExEUVlwV0FlNXM2RTFNSGFKX0VCQ0dOQlJabkg3c0kxVFVTOA?oc=5"
     },
     {
-      "id": "rss-aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vcnNzL2FydGljbGVzL0NCTWlZRUZWWDNseFRFNUpXbUl5Um1acmMydzFkMGRtWkhORE5VWTNXbVZ4TTBaRGNFOTZTV2xFTWtjd1NtVlNhbUkwTUdKSlVrNXNURlJ4UTJoclptdEVZMjV0Vlc4dGNFWnNlVzkyVTJKWk1GSmtYelV0ZURGdVJVNUlObkJUZDBVd2JkSUJZRUZWWDNseFRFNUpXbUl5Um1acmMydzFkMGRtWkhORE5VWTNXbVZ4TTBaRGNFOTZTV2xFTWtjd1NtVlNhbUkwTUdKSlVrNXNURlJ4UTJoclptdEVZMjV0Vlc4dGNFWnNlVzkyVTJKWk1GSmtYelV0ZURGdVJVNUlObkJUZDBVd2JRP29jPTU",
+      "id": "rss-aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vcnNzL2FydGljbGVzL0NCTWlnQUZCVlY5NWNVeE5WbGN5TjBKS1VUVjBUVlptYXpaV1UxSnJjVGRPUmxSeFZuRlhjSEpUUkY5R1lUWklURmhVTnpFd2EzSkxXSGhHWTNaTGQzVk1VMnRJYkZJNWNFWndURFZoVFU1WVRqUnpjR05FVFZOS1FubE9hV1JtYlVsb1RtVnJSRXRYT0dORmIwSmlUblJvTFhOWmJVNVFlRVo2YmxJNGFFTlZNVWxWUXc_b2M9NQ",
       "source": "구글뉴스",
-      "tag": "yna.co.kr",
-      "title": "\"식품 80% 늘고 주방용품 반토막\"…GS샵, 10년 추석 소비 분석",
-      "summary": "yna.co.kr에서 보도한 주방용품 & 리빙 아이디어 관련 이슈입니다.",
+      "tag": "edaily.co.kr",
+      "title": "국산 AI반도체 청소로봇 나온다…라이노스, IFA 2026 출품",
+      "summary": "edaily.co.kr에서 보도한 홈케어 & 위생/청소 관련 이슈입니다.",
       "date": "2026-09-02",
-      "category": "주방용품 & 리빙 아이디어",
-      "engagement": "출처: yna.co.kr",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5JWmIyRmZrc2w1d0dmZHNDNUY3WmVxM0ZDcE96SWlEMkcwSmVSamI0MGJJUk5sTFRxQ2hrZmtEY25tVW8tcEZseW92U2JZMFJkXzUteDFuRU5INnBTd0UwbdIBYEFVX3lxTE5JWmIyRmZrc2w1d0dmZHNDNUY3WmVxM0ZDcE96SWlEMkcwSmVSamI0MGJJUk5sTFRxQ2hrZmtEY25tVW8tcEZseW92U2JZMFJkXzUteDFuRU5INnBTd0UwbQ?oc=5"
+      "category": "홈케어 & 위생/청소",
+      "engagement": "출처: edaily.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVlcyN0JKUTV0TVZmazZWU1JrcTdORlRxVnFXcHJTRF9GYTZITFhUNzEwa3JLWHhGY3ZLd3VMU2tIbFI5cEZwTDVhTU5YTjRzcGNETVNKQnlOaWRmbUloTmVrREtXOGNFb0JiTnRoLXNZbU5QeEZ6blI4aENVMUlVQw?oc=5"
     },
     {
-      "id": "rss-aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vcnNzL2FydGljbGVzL0NCTWlha0ZWWDNseFRFNXpZalpIWVMxbVNEQTRXVEp6YkhVd1kySkJNbmw0WkcxRGNqQnZMV0o1YUd0SU9FNTNjSG90UnpneWRrTmxaV0pRUTI1QlNscFlVWFJDYm1KaU5tRTRWRTB0WDB4RFZ6bHRhelJPUVhGeWRWOXBjblp5T1VzeGFFZGZPV2h2ZEZCR1VYYz9vYz01",
+      "id": "rss-aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vcnNzL2FydGljbGVzL0NCTWljRUZWWDNseFRFOVlhRnBEYlZOMloyRnhiVTVpVkRReFlqYzJhMjl4WkhWSmVGZFlZVnBmVTNOclZFaFJObFZJZVdoSlEyTndSa3R3YldGRFFqSmpZVTFsWXpkS056UjRaMEZrWkdkTE5HTmxWMGRwVDFsVVUwdGxaVkkxYjBGNGRXNDJiMWxJWXkxMlUycFNVVE5sUjBvP29jPTU",
       "source": "구글뉴스",
       "tag": "인천일보",
       "title": "동두천 노인복지관에 2억 8142만원 상당 주방용품 전달",
@@ -285,7 +296,18 @@
       "date": "2026-09-02",
       "category": "주방용품 & 리빙 아이디어",
       "engagement": "출처: 인천일보",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5zYjZHYS1mSDA4WTJzbHUwY2JBMnl4ZG1DcjBvLWJ5aGtIOE53cHotRzgydkNlZWJQQ25BSlpYUXRCbmJiNmE4VE0tX0xDVzltazROQXFydV9pcnZyOUsxaEdfOWhvdFBGUXc?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9YaFpDbVN2Z2FxbU5iVDQxYjc2a29xZHVJeFdYYVpfU3NrVEhRNlVIeWhJQ2NwRktwbWFDQjJjYU1lYzdKNzR4Z0FkZGdLNGNlV0dpT1lUU0tlZVI1b0F4dW42b1lIYy12U2pSUTNlR0o?oc=5"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vcnNzL2FydGljbGVzL0NCTWlXMEZWWDNseFRFMXdVR1l6TkZOVGRXNXRTVXAxUTBSNFExTjFRMnRNZFRaUVIzTjJOWGhPTW1SVVF6bGFhamswU0ZSSk9VOXBWbnBaZVRKalkzSjZielZGU25Gb1gxYzRXVlpGWm5keWNXbG1UMXBDY2paSE1sODNPVkhTQVdCQlZWOTVjVXhPU1ZwaU1rWm1hM05zTlhkSFptUnpRelZHTjFwbGNUTkdRM0JQZWtscFJESkhNRXBsVW1waU5EQmlTVkpPYkV4VWNVTm9hMlpyUkdOdWJWVnZMWEJHYkhsdmRsTmlXVEJTWkY4MUxYZ3hia1ZPU0Rad1UzZEZNRzA_b2M9NQ",
+      "source": "구글뉴스",
+      "tag": "yna.co.kr",
+      "title": "\"식품 80% 늘고 주방용품 반토막\"…GS샵, 10년 추석 소비 분석",
+      "summary": "yna.co.kr에서 보도한 주방용품 & 리빙 아이디어 관련 이슈입니다.",
+      "date": "2026-09-02",
+      "category": "주방용품 & 리빙 아이디어",
+      "engagement": "출처: yna.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1wUGYzNFNTdW5tSUp1Q0R4Q1N1Q2tMdTZQR3N2NXhOMmRUQzlaajk0SFRJOU9pVnpZeTJjY3J6bzVFSnFoX1c4WVZFZndycWlmT1pCcjZHMl83OVHSAWBBVV95cUxOSVpiMkZma3NsNXdHZmRzQzVGN1plcTNGQ3BPeklpRDJHMEplUmpiNDBiSVJObExUcUNoa2ZrRGNubVVvLXBGbHlvdlNiWTBSZF81LXgxbkVOSDZwU3dFMG0?oc=5"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vcnNzL2FydGljbGVzL0NCTWlja0ZWWDNseFRFNWliRkJKWTNNelVqVm5OMFJPVFU5ZlltTmZSMmcyVG5sc1RuQTBUSFppYjJoUldHaFBNbTVDVmxWRWQxUnJYMjVmYWpkdk9FOVJRMjlRUTJ0VGF6SjVTM2xCT1hSRmJ6WkJaR0p5WDJkUWEwSXlXR04zTFVGMGMyWklha0l6VDJSeFFUSjJkWGxHWmxWTVo5SUJka0ZWWDNseFRFMTJka1ZKWVdWbmRFRllRWE00UW5sSlMwMDVWRFZrU1RsQk5IaFVPV2hyZHpnMFZtWnBRVTUwUTFNemEzWlZYMUZuV2xRMFpWUlhMVEJLYm1SRWNYTjVZalZKWjBkQ1FqbFFNak5uVVVaQlIxZDJMVGRCVTFNMlZrUlZTbE5RY0hWTVIwbG1XWFJuVFRkSlNHMU9abmM_b2M9NQ",
@@ -310,6 +332,17 @@
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE94TjZDOEZkWkhUd1RLcm9mMmNOZGFyOEo0OGpVR1o5ZHUxV25Fdk1vcUhHdmc2RzM3OTB6RTFkZkppSXRfUVFVZ1ZHYkpyRVh3Sk9sZGVwb2pMa3ZSRWZOWVlnUdIBZ0FVX3lxTE9LV0hUcmVmNjFIcnRlcFY2a2VDSlNOVUZCVDBvZzRRWmt0ZTJvajFqQzNxU013bXYtX2NyU0x1QkRLbWRSRlNHNW1SbU9wMk1GTl9IN0g1QlRRR2R5dDhmbUZRVjNIdTA?oc=5"
     },
     {
+      "id": "rss-aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vcnNzL2FydGljbGVzL0NCTWljRUZWWDNseFRFMXdWM1JLZUU4eVZYWTFXa28xYW5kZmVUbFZSVU5SY2kwd2NUWXhRbVJ6Wlc1eVptdDZTbEpVV2xZd1kyRnRWa1pxTjBocFpIRkRablV3Tlc1dVpIWlRlV1ZYY0hCMWRtbGxNa3Q2YTJWdVNsbE9UVmRZYVhZNGNXODNUa2d4VDFWVlVEazVPWFJVTTNVP29jPTU",
+      "source": "구글뉴스",
+      "tag": "Investing.com 한국어",
+      "title": "Ten, HSBC UK 프리미어 고객 위한 디지털 라이프스타일 플랫폼 출시",
+      "summary": "Investing.com 한국어에서 보도한 라이프스타일 트렌드 & 팝업 관련 이슈입니다.",
+      "date": "2026-09-02",
+      "category": "라이프스타일 트렌드 & 팝업",
+      "engagement": "출처: Investing.com 한국어",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1wV3RKeE8yVXY1Wko1andfeTlVRUNRci0wcTYxQmRzZW5yZmt6SlJUWlYwY2FtVkZqN0hpZHFDZnUwNW5uZHZTeWVXcHB1dmllMkt6a2VuSllOTVdYaXY4cW83TkgxT1VVUDk5OXRUM3U?oc=5"
+    },
+    {
       "id": "rss-aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vcnNzL2FydGljbGVzL0NCTWlUMEZWWDNseFRFMW9MWFZHWldGNVpHWlFaVFExZG10V2ExWllWWE50TTNkdlozcDZOMVI2Y1hOc1MyTXhXVGRYUWw4elZ6QlRZa1kwTVZrMU5GTnpOMnMyVkRVMk1FdzFlall5YkV3MWNuTT9vYz01",
       "source": "구글뉴스",
       "tag": "v.daum.net",
@@ -321,15 +354,26 @@
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1oLXVGZWF5ZGZQZTQ1dmtWa1ZYVXNtM3dvZ3p6N1R6cXNsS2MxWTdXQl8zVzBTYkY0MVk1NFNzN2s2VDU2MEw1ejYybEw1cnM?oc=5"
     },
     {
-      "id": "rss-aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vcnNzL2FydGljbGVzL0NCTWljRUZWWDNseFRFMXdWM1JLZUU4eVZYWTFXa28xYW5kZmVUbFZSVU5SY2kwd2NUWXhRbVJ6Wlc1eVptdDZTbEpVV2xZd1kyRnRWa1pxTjBocFpIRkRablV3Tlc1dVpIWlRlV1ZYY0hCMWRtbGxNa3Q2YTJWdVNsbE9UVmRZYVhZNGNXODNUa2d4VDFWVlVEazVPWFJVTTNVP29jPTU",
+      "id": "rss-aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vcnNzL2FydGljbGVzL0NCTWlia0ZWWDNseFRFMDFabGQzVHpSSVQyNVNSM0Z4VkhGUmJsaG1iMFJPZG1GTGNXeDZkMEZrVTI1UmRqSlFVRTh3UVhKMGJYbDVaa05ZVVhaNVZVeFVVR0l5WlhWZmVrdE5SbEpzU0d0VVZEZG1Yek5XZVRkaFNHOHpZM0JxV0RaVlpUTnFkMmxoWWxKMVJuTkRhblpuP29jPTU",
       "source": "구글뉴스",
-      "tag": "Investing.com 한국어",
-      "title": "Ten, HSBC UK 프리미어 고객 위한 디지털 라이프스타일 플랫폼 출시",
-      "summary": "Investing.com 한국어에서 보도한 라이프스타일 트렌드 & 팝업 관련 이슈입니다.",
+      "tag": "아시아투데이",
+      "title": "DL그룹 글래드, 올해의 브랜드 대상서 라이프스타일 호텔 부문 8년 연속 1위",
+      "summary": "아시아투데이에서 보도한 라이프스타일 트렌드 & 팝업 관련 이슈입니다.",
       "date": "2026-09-02",
       "category": "라이프스타일 트렌드 & 팝업",
-      "engagement": "출처: Investing.com 한국어",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1wV3RKeE8yVXY1Wko1andfeTlVRUNRci0wcTYxQmRzZW5yZmt6SlJUWlYwY2FtVkZqN0hpZHFDZnUwNW5uZHZTeWVXcHB1dmllMkt6a2VuSllOTVdYaXY4cW83TkgxT1VVUDk5OXRUM3U?oc=5"
+      "engagement": "출처: 아시아투데이",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE01Zld3TzRIT25SR3FxVHFRblhmb0ROdmFLcWx6d0FkU25RdjJQUE8wQXJ0bXl5ZkNYUXZ5VUxUUGIyZXVfektNRlJsSGtUVDdmXzNWeTdhSG8zY3BqWDZVZTNqd2lhYlJ1RnNDanZn?oc=5"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vcnNzL2FydGljbGVzL0NCTWliMEZWWDNseFRFMDBWemhRUkhsSlJ6TXhSa3MxVUd3d2JtbEJPWHBCVkhsb2RHTnJVV2MxVjNCRE5tRjRObFZHT1ZOS1EwcFdSWE4wVjBWalduZzBTak5qVWw5aVVURXhZMjFoWkhsUlYweDBlbG94VUV0YVNYRnphMTh0Y21Vd1R6QTNOVU41ZFhGUFdYUlBNV054VWRJQmMwRlZYM2x4VEZCQmJXVnJUMWN5UkRJdGRFZGxiRTB0YzBoT05pMTVSbWRUTkV0UmNUVjBNMWhRWlU5dWFYSmtSVWR4VVVsUlExTXlTM0pmTmxneGRIQnJaSEJXUkZOaE5EbDNRbXRyZEZWU1pYbERhRFJ4YjNVMlVubzJiM001TkhGT1FUZzVka3BNTTB0SlVsUm9YekkzY2pBP29jPTU",
+      "source": "구글뉴스",
+      "tag": "대전일보",
+      "title": "[사진뉴스] 한국타이어, 대전 취약계층에 생활용품 나눔 후원금 전달",
+      "summary": "대전일보에서 보도한 라이프스타일 트렌드 & 팝업 관련 이슈입니다.",
+      "date": "2026-09-02",
+      "category": "라이프스타일 트렌드 & 팝업",
+      "engagement": "출처: 대전일보",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE00VzhQRHlJRzMxRks1UGwwbmlBOXpBVHlodGNrUWc1V3BDNmF4NlVGOVNKQ0pWRXN0V0VjWng0SjNjUl9iUTExY21hZHlRV0x0eloxUEtaSXFza18tcmUwTzA3NUN5dXFPWXRPMWNxUdIBc0FVX3lxTFBBbWVrT1cyRDItdEdlbE0tc0hONi15RmdTNEtRcTV0M1hQZU9uaXJkRUdxUUlRQ1MyS3JfNlgxdHBrZHBWRFNhNDl3QmtrdFVSZXlDaDRxb3U2Uno2b3M5NHFOQTg5dkpMM0tJUlRoXzI3cjA?oc=5"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vcnNzL2FydGljbGVzL0NCTWlYRUZWWDNseFRFOVdSa0ZPV1ZGVU5WcEVRV2w0WjBjelptZGlOR05XUlRaR1IxcGZXbEo1UmxSRGJGb3daalpLYzFkVGVYSjRWRXBPTmtocGRYQlBRVkZCWDB0ZldrTm1kVmN0YVUxQlJsTkZaMFpNTnpoRFpUQnZOMkZhP29jPTU",
@@ -343,15 +387,15 @@
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9WRkFOWVFUNVpEQWl4Z0czZmdiNGNWRTZGR1pfWlJ5RlRDbFowZjZKc1dTeXJ4VEpONkhpdXBPQVFBX0tfWkNmdVctaU1BRlNFZ0ZMNzhDZTBvN2Fa?oc=5"
     },
     {
-      "id": "rss-aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vcnNzL2FydGljbGVzL0NCTWliMEZWWDNseFRFMDBWemhRUkhsSlJ6TXhSa3MxVUd3d2JtbEJPWHBCVkhsb2RHTnJVV2MxVjNCRE5tRjRObFZHT1ZOS1EwcFdSWE4wVjBWalduZzBTak5qVWw5aVVURXhZMjFoWkhsUlYweDBlbG94VUV0YVNYRnphMTh0Y21Vd1R6QTNOVU41ZFhGUFdYUlBNV054VWRJQmMwRlZYM2x4VEZCQmJXVnJUMWN5UkRJdGRFZGxiRTB0YzBoT05pMTVSbWRUTkV0UmNUVjBNMWhRWlU5dWFYSmtSVWR4VVVsUlExTXlTM0pmTmxneGRIQnJaSEJXUkZOaE5EbDNRbXRyZEZWU1pYbERhRFJ4YjNVMlVubzJiM001TkhGT1FUZzVka3BNTTB0SlVsUm9YekkzY2pBP29jPTU",
+      "id": "rss-aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vcnNzL2FydGljbGVzL0NCTWlXRUZWWDNseFRFMTNVbVJLTkRaQmMwaFJRek53YTIxTFJHVjVYMVJvTTNsVlNUQlhMVlJXZHpZNGNsOVJVbXRZUVZKVVVHVmZaRmRqYVVWMGFGOHdaMWx0VW1wMFREVk1hMUp6Vm5Ock56aFVjVEozT1cweGNqQT9vYz01",
       "source": "구글뉴스",
-      "tag": "대전일보",
-      "title": "[사진뉴스] 한국타이어, 대전 취약계층에 생활용품 나눔 후원금 전달",
-      "summary": "대전일보에서 보도한 라이프스타일 트렌드 & 팝업 관련 이슈입니다.",
+      "tag": "더트래커",
+      "title": "글래드 호텔, ‘올해의 브랜드 대상’ 8년 연속 1위…라이프스타일 사업 확장",
+      "summary": "더트래커에서 보도한 라이프스타일 트렌드 & 팝업 관련 이슈입니다.",
       "date": "2026-09-02",
       "category": "라이프스타일 트렌드 & 팝업",
-      "engagement": "출처: 대전일보",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE00VzhQRHlJRzMxRks1UGwwbmlBOXpBVHlodGNrUWc1V3BDNmF4NlVGOVNKQ0pWRXN0V0VjWng0SjNjUl9iUTExY21hZHlRV0x0eloxUEtaSXFza18tcmUwTzA3NUN5dXFPWXRPMWNxUdIBc0FVX3lxTFBBbWVrT1cyRDItdEdlbE0tc0hONi15RmdTNEtRcTV0M1hQZU9uaXJkRUdxUUlRQ1MyS3JfNlgxdHBrZHBWRFNhNDl3QmtrdFVSZXlDaDRxb3U2Uno2b3M5NHFOQTg5dkpMM0tJUlRoXzI3cjA?oc=5"
+      "engagement": "출처: 더트래커",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE13UmRKNDZBc0hRQzNwa21LRGV5X1RoM3lVSTBXLVRWdzY4cl9RUmtYQVJUUGVfZFdjaUV0aF8wZ1ltUmp0TDVMa1JzVnNrNzhUcTJ3OW0xcjA?oc=5"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vcnNzL2FydGljbGVzL0NCTWlaMEZWWDNseFRFNUpZVlZRVWxKSVlteFRNRzV5Vm5wNWVrZG1NMFZSY1dwWE4zcFdWalphV0djNVRFMURZVnB1VkY5c2JpMTJiVWx3VFVJeWJsbFRZemhOVjJOdlZETk5kVUY0T0VReU9XVTNWV3MxTlVWbWFFVnhkbVZ0ZDNOamNsbHZTazlFYjJjP29jPTU",
@@ -422,24 +466,13 @@
     {
       "id": "rss-aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vcnNzL2FydGljbGVzL0NCTWlaRUZWWDNseFRFNVRkRk5rUVVWYU1HSmZSRkpSUkhwSmJXcExVa3RFWDJsaFpqbFJPSE4yUzJobmVVdzVlSGxvZGtSSlJVUk5kMjlZUlU0emRFdDZhRVl6TFZSUWNtOWtaalZZVjAxaFVrY3diRFV3YVhWQmJtUkljekJyYWw5RWIyRTJVbmM_b2M9NQ",
       "source": "구글뉴스",
-      "tag": "중도일보",
+      "tag": "joongdo.co.kr",
       "title": "[포토] 한국타이어, 대전 지역 취약계층 위한 생활용품 나눔 후원금 전달",
-      "summary": "중도일보에서 보도한 라이프스타일 트렌드 & 팝업 관련 이슈입니다.",
+      "summary": "joongdo.co.kr에서 보도한 라이프스타일 트렌드 & 팝업 관련 이슈입니다.",
       "date": "2026-09-02",
       "category": "라이프스타일 트렌드 & 팝업",
-      "engagement": "출처: 중도일보",
+      "engagement": "출처: joongdo.co.kr",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5TdFNkQUVaMGJfRFJRRHpJbWpLUktEX2lhZjlROHN2S2hneUw5eHlodkRJRURNd29YRU4zdEt6aEYzLVRQcm9kZjVYV01hUkcwbDUwaXVBbmRIczBral9Eb2E2Unc?oc=5"
-    },
-    {
-      "id": "rss-aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vcnNzL2FydGljbGVzL0NCTWlha0ZWWDNseFRFMXhTR1ZYV1VSdk4xVnBXWHBKVTJodFMwNUpNV0p5Y1ZabmJqRjFOV1JVYjNBeVpVYzFkSFIzYm1GU1lUQlFOQzFhTkZKdU1rOHpWbFEyVlhjM2IySndiVEpKYjNJd1JrNVJOMEpFWm1Gc1NWOTNTMEZsVFVWTWRWVkVObHBKZFdacFZHZlNBVzVCVlY5NWNVeE9kVjl1VGtZMlVrVjRhMVJyVWpKVk5WSnNUekJqZVdodmMwRktiM2g2Y3pGRlJHUlZTbUpXWTJvMWJrdHZXREp6VFZVemJHZHlSV3cyTkRKdWJscDNkMHAxTkU4M1UxcEVSa2hDU0Mxa2JsWnJWa001UjNaNE5HRm1SR3BtVmxNeGNWVnFibVY2VVE_b2M9NQ",
-      "source": "구글뉴스",
-      "tag": "지피코리아",
-      "title": "반얀트리 서울, 가을 미식에 마이바흐까지…하이엔드 라이프스타일 강화",
-      "summary": "지피코리아에서 보도한 라이프스타일 트렌드 & 팝업 관련 이슈입니다.",
-      "date": "2026-09-02",
-      "category": "라이프스타일 트렌드 & 팝업",
-      "engagement": "출처: 지피코리아",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1xSGVXWURvN1VpWXpJU2htS05JMWJycVZnbjF1NWRUb3AyZUc1dHR3bmFSYTBQNC1aNFJuMk8zVlQ2VXc3b2JwbTJJb3IwRk5RN0JEZmFsSV93S0FlTUVMdVVENlpJdWZpVGfSAW5BVV95cUxOdV9uTkY2UkV4a1RrUjJVNVJsTzBjeWhvc0FKb3h6czFFRGRVSmJWY2o1bktvWDJzTVUzbGdyRWw2NDJublp3d0p1NE83U1pERkhCSC1kblZrVkM5R3Z4NGFmRGpmVlMxcVVqbmV6UQ?oc=5"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vcnNzL2FydGljbGVzL0NCTWliMEZWWDNseFRFNHhRMnhhVERWRlRERlFkblZWYmw5WmJrTnplRTQxTjBaV2FuQkdhVWxGU1VSVVlVVnFVRkpRYlhkQ2JucFJkbFEyVVZKUVZ6QkZWaTFOU0VWdlFuaHNUVEZaTm1GMFRVWnZTMnhMTkRoWVZEUmFXazFyVG5veVlXNUpPRkozVG1GWlVqUTJja2hDVFE_b2M9NQ",
@@ -453,26 +486,26 @@
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4xQ2xaTDVFTDFQdnVVbl9ZbkNzeE41N0ZWanBGaUlFSURUYUVqUFJQbXdCbnpRdlQ2UVJQVzBFVi1NSEVvQnhsTTFZNmF0TUZvS2xLNDhYVDRaWk1rTnoyYW5JOFJ3TmFZUjQ2ckhCTQ?oc=5"
     },
     {
-      "id": "rss-aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vcnNzL2FydGljbGVzL0NCTWlaRUZWWDNseFRGQjRNM2RSTmpWU2NWbDRVRWxwVUU5Nk4zUjFZWEpoWjFSVmNUWnROVlJHZVdWRlNVRTBiRmRNZVdwUWVUSXhOMWxaU1hBM1VEazBSSEpuT1VSc1IwNTZOalZHUzB0MldYQnhTR0Z5VW5ScE9GaDJjbUZHUzBnMmIxbFRRbFk_b2M9NQ",
+      "id": "rss-aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vcnNzL2FydGljbGVzL0NCTWlha0ZWWDNseFRFMXhTR1ZYV1VSdk4xVnBXWHBKVTJodFMwNUpNV0p5Y1ZabmJqRjFOV1JVYjNBeVpVYzFkSFIzYm1GU1lUQlFOQzFhTkZKdU1rOHpWbFEyVlhjM2IySndiVEpKYjNJd1JrNVJOMEpFWm1Gc1NWOTNTMEZsVFVWTWRWVkVObHBKZFdacFZHZlNBVzVCVlY5NWNVeE9kVjl1VGtZMlVrVjRhMVJyVWpKVk5WSnNUekJqZVdodmMwRktiM2g2Y3pGRlJHUlZTbUpXWTJvMWJrdHZXREp6VFZVemJHZHlSV3cyTkRKdWJscDNkMHAxTkU4M1UxcEVSa2hDU0Mxa2JsWnJWa001UjNaNE5HRm1SR3BtVmxNeGNWVnFibVY2VVE_b2M9NQ",
       "source": "구글뉴스",
-      "tag": "중도일보",
-      "title": "충남콘텐츠진흥원, 천안 코리빙하우스 신규 입주자 모집",
-      "summary": "중도일보에서 보도한 라이프스타일 트렌드 & 팝업 관련 이슈입니다.",
+      "tag": "지피코리아",
+      "title": "반얀트리 서울, 가을 미식에 마이바흐까지…하이엔드 라이프스타일 강화",
+      "summary": "지피코리아에서 보도한 라이프스타일 트렌드 & 팝업 관련 이슈입니다.",
       "date": "2026-09-02",
       "category": "라이프스타일 트렌드 & 팝업",
-      "engagement": "출처: 중도일보",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB4M3dRNjVScVl4UElpUE96N3R1YXJhZ1RVcTZtNVRGeWVFSUE0bFdMeWpQeTIxN1lZSXA3UDk0RHJnOURsR056NjVGS0t2WXBxSGFyUnRpOFh2cmFGS0g2b1lTQlY?oc=5"
+      "engagement": "출처: 지피코리아",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1xSGVXWURvN1VpWXpJU2htS05JMWJycVZnbjF1NWRUb3AyZUc1dHR3bmFSYTBQNC1aNFJuMk8zVlQ2VXc3b2JwbTJJb3IwRk5RN0JEZmFsSV93S0FlTUVMdVVENlpJdWZpVGfSAW5BVV95cUxOdV9uTkY2UkV4a1RrUjJVNVJsTzBjeWhvc0FKb3h6czFFRGRVSmJWY2o1bktvWDJzTVUzbGdyRWw2NDJublp3d0p1NE83U1pERkhCSC1kblZrVkM5R3Z4NGFmRGpmVlMxcVVqbmV6UQ?oc=5"
     },
     {
-      "id": "rss-aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vcnNzL2FydGljbGVzL0NCTWlZRUZWWDNseFRFMHliazFpVkRWRk16QllhSFZRWW1FNVRrUjNPR05zZUV4UFIyRmZUamRrWmxsbWJXZDVSM1Y1ZDBOZmNqZzVXR3RNUzBWc1FrWnJVRlpyZFdSbGIxRm1UMmxGUmt0TGIxbGFNR3BmTkVJMVUyRnZla05NY0ZCR2NRP29jPTU",
+      "id": "rss-aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vcnNzL2FydGljbGVzL0NCTWlaRUZWWDNseFRGQjRNM2RSTmpWU2NWbDRVRWxwVUU5Nk4zUjFZWEpoWjFSVmNUWnROVlJHZVdWRlNVRTBiRmRNZVdwUWVUSXhOMWxaU1hBM1VEazBSSEpuT1VSc1IwNTZOalZHUzB0MldYQnhTR0Z5VW5ScE9GaDJjbUZHUzBnMmIxbFRRbFk_b2M9NQ",
       "source": "구글뉴스",
-      "tag": "네이트",
-      "title": "에프유피글로벌파트너스, AI 솔루션부터 라이프스타일 브랜드까지…지식재산권(IP) 확보 및 사업 포트폴리오 다각화 박차",
-      "summary": "네이트에서 보도한 라이프스타일 트렌드 & 팝업 관련 이슈입니다.",
+      "tag": "joongdo.co.kr",
+      "title": "충남콘텐츠진흥원, 천안 코리빙하우스 신규 입주자 모집",
+      "summary": "joongdo.co.kr에서 보도한 라이프스타일 트렌드 & 팝업 관련 이슈입니다.",
       "date": "2026-09-02",
       "category": "라이프스타일 트렌드 & 팝업",
-      "engagement": "출처: 네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0ybk1iVDVFMzBYaHVQYmE5TkR3OGNseExPR2FfTjdkZllmbWd5R3V5d0Nfcjg5WGtMS0VsQkZrUFZrdWRlb1FmT2lFRktLb1laMGpfNEI1U2FvekNMcFBGcQ?oc=5"
+      "engagement": "출처: joongdo.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB4M3dRNjVScVl4UElpUE96N3R1YXJhZ1RVcTZtNVRGeWVFSUE0bFdMeWpQeTIxN1lZSXA3UDk0RHJnOURsR056NjVGS0t2WXBxSGFyUnRpOFh2cmFGS0g2b1lTQlY?oc=5"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vcnNzL2FydGljbGVzL0NCTWlZMEZWWDNseFRGQnpaRXB0ZG5ZNWIxVjZNRm81ZEd4RlVtOWtWa1JUUlMxMVRGZFdhMHBaZVhSYU9XSnRabDlsVEhCRVJVeGlhMmhxVEZaallsaGhOWGhJYWxwUFZYbzFZVlppTlhVeFp6WkNXbmRQZFVOclVWUmllSE51ZWswM1VtbHVkOUlCWjBGVlgzbHhURTFyWkRWMU5XVjZOMGx5Y1dKTFlqWXpkWFJTYWtWRU5tc3ljUzEwZDA5MFNtSnFPVTloYm1aeE5pMUdNSEZVV1cwd2RDMDJZMnhMWmtaNGJUSk5Ua2hQYVhGSFdXMURaVWRTUlhKR1EyVkNOa2RpUzNWd1FWZzVXblkzY2t0MmJ6UT9vYz01",
@@ -609,12 +642,12 @@
     {
       "id": "rss-aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vcnNzL2FydGljbGVzL0NCTWlqZ0ZCVlY5NWNVeFBMVEpyZWtWb05qRmpTMHh5WnpkS2NtdHlVWFpLVGs1Sk1XTjVSbWt4U1hsNlZtWkhiekJKVmxwM2VqSnBORk4zVm05T2VsQXhhVEpUU2pSTWJsTjNaWE0zY0ZKRFEwZFhka1ZKU0ZGek1tZFBka0V4Vnpsb1oxUTNhVmhLUkhseVJIWTNPR0p2UmtoV2FscFNUSEJmV1VsWVFqZExlbloyYmtkSVluZGtVWHBTYjJKcVVtMW4_b2M9NQ",
       "source": "구글뉴스",
-      "tag": "국제신문",
+      "tag": "kookje.co.kr",
       "title": "부산 서구 초장동 적십자봉사회, ‘행복나눔 세탁봉사’ 진행",
-      "summary": "국제신문에서 보도한 패브릭 & 의류 케어 관련 이슈입니다.",
+      "summary": "kookje.co.kr에서 보도한 패브릭 & 의류 케어 관련 이슈입니다.",
       "date": "2026-09-01",
       "category": "패브릭 & 의류 케어",
-      "engagement": "출처: 국제신문",
+      "engagement": "출처: kookje.co.kr",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPLTJrekVoNjFjS0xyZzdKcmtyUXZKTk5JMWN5RmkxSXl6VmZHbzBJVlp3ejJpNFN3Vm9OelAxaTJTSjRMblN3ZXM3cFJDQ0dXdkVJSFFzMmdPdkExVzloZ1Q3aVhKRHlyRHY3OGJvRkhWalpSTHBfWUlYQjdLenZ2bkdIYndkUXpSb2JqUm1n?oc=5"
     },
     {
@@ -686,12 +719,12 @@
     {
       "id": "rss-aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vcnNzL2FydGljbGVzL0NCTWliRUZWWDNseFRGQlVVbWQwVFZaTldIcDJlbHBZZDBOd04wbFZSbEU1Wkc5cWNGZzRVakJKVW5Ga1lUbHVTR05IZUVoR05FOUlXWGhqY0ZOWmRFUkphSFpFYTFkdVVIaHJVbUZDVURKMFVXaFZSMWhQYzA1Q1NUbDZWSFl5YjBoWVdUaHpiWFJTVFZONVltOXllUT9vYz01",
       "source": "구글뉴스",
-      "tag": "ihopenews.com",
+      "tag": "호남교육신문",
       "title": "“고정관념은 세탁하고, 평등은 실천”…양성평등주간 운영",
-      "summary": "ihopenews.com에서 보도한 패브릭 & 의류 케어 관련 이슈입니다.",
+      "summary": "호남교육신문에서 보도한 패브릭 & 의류 케어 관련 이슈입니다.",
       "date": "2026-09-01",
       "category": "패브릭 & 의류 케어",
-      "engagement": "출처: ihopenews.com",
+      "engagement": "출처: 호남교육신문",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBUUmd0TVZNWHp2elpYd0NwN0lVRlE5ZG9qcFg4UjBJUnFkYTluSGNHeEhGNE9IWXhjcFNZdERJaHZEa1duUHhrUmFCUDJ0UWhVR1hPc05CSTl6VHYyb0hYWThzbXRSTVN5Ym9yeQ?oc=5"
     },
     {
@@ -761,6 +794,17 @@
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5xMU1ITnI2RmNGTW1mLW1JNkRmeG81N2dkQkszeXVEZUZkQW9NVlFrRllqRWFpWldjbzdyRW5jaFExWk1ZQW5fU1pPcmdqVk9kVjRMQXpfOE1PbHdKWDNLak5yRQ?oc=5"
     },
     {
+      "id": "rss-aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vcnNzL2FydGljbGVzL0NCTWlhMEZWWDNseFRFNW1VR0pCWTFwblNtNWFSRXBVZFhGSmEwOVpWR2gzZW1wV1VVVlRiR1JYU1RsMlFXNDBSVzg1TlZGSlJYQnZZazUwTmxoWVZrUXRXall5ZFUxWWRUTlFOWEp1YVdzd1ZsbGtORVZNWTNWS1ZWZG9ZMVJyY0doRVlsVjRkR1JhU0ZBeVp6SkI_b2M9NQ",
+      "source": "구글뉴스",
+      "tag": "서울뉴스통신",
+      "title": "청주시, 식품·첨가물제조가공업체 위생관리등급 평가 실시",
+      "summary": "서울뉴스통신에서 보도한 홈케어 & 위생/청소 관련 이슈입니다.",
+      "date": "2026-09-01",
+      "category": "홈케어 & 위생/청소",
+      "engagement": "출처: 서울뉴스통신",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5mUGJBY1pnSm5aREpUdXFJa09ZVGh3empWUUVTbGRXSTl2QW40RW85NVFJRXBvYk50NlhYVkQtWjYydU1YdTNQNXJuaWswVllkNEVMY3VKVVdoY1RrcGhEYlV4dGRaSFAyZzJB?oc=5"
+    },
+    {
       "id": "rss-aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vcnNzL2FydGljbGVzL0NCTWlXRUZWWDNseFRFMUxkM1p0UjBsVWVUSTBjVlJITUdaNE5IaFlhelZEVm1aS2NsWnhVVGwxTFU1dE5saDNkRVZ6ZEVwaVFuSnFlR1ZMTUdOTVZ6Ukhia0ZQV1ZSelUxWXRTVGRHUzB0SGFuZGhUVVJxT1V3MmF6RT9vYz01",
       "source": "구글뉴스",
       "tag": "경북신문",
@@ -816,6 +860,28 @@
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1uOXVpcTYtOHg1N1JHWWFJVHgyMHpQMHlLUnVOdVlreEdueUhSUzFoQXBQdWhUakRfd3FDamJfekNSUUZLV0trT196RC0yb3puTmpfaFNiVFlKdl9XTmt6dmVxUHY0RE9uQzB5Y293R3UyWk40bkdQblJ3?oc=5"
     },
     {
+      "id": "rss-aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vcnNzL2FydGljbGVzL0NCTWlZa0ZWWDNseFRFMVFaR3RwT1daQldqRmtjVzUwUkRocmRVeGlRMGROWlROdVpuSmtNakYwVEdkcGJGRmphWHB6YkhaSmNUTTNWWE5NVkVWUGVuTTVkMEY2ZURkcVNtWjNUblIxUldSbGNFRnVPRGRMUmtWcFdGVjJkbXRoVkVKYVRWQkI_b2M9NQ",
+      "source": "구글뉴스",
+      "tag": "충북일보",
+      "title": "#샵스타그램 - 청주 청소 전문업체 '제이클린'",
+      "summary": "충북일보에서 보도한 홈케어 & 위생/청소 관련 이슈입니다.",
+      "date": "2026-09-01",
+      "category": "홈케어 & 위생/청소",
+      "engagement": "출처: 충북일보",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1QZGtpOWZBWjFkcW50RDhrdUxiQ0dNZTNuZnJkMjF0TGdpbFFjaXpzbHZJcTM3VXNMVEVPenM5d0F6eDdqSmZ3TnR1RWRlcEFuODdLRkVpWFV2dmthVEJaTVBB?oc=5"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vcnNzL2FydGljbGVzL0NCTWlXa0ZWWDNseFRGQkdWMGRLYUZOTVFqSnNkbmxtVjJOWWVqWm5NV3hmYmpkQ2RVUjZSV0owVDBodU9XdG5SR2RIVVVOcWRqRlJXa2RUY3pKalIxTkdTWGxFT1hOeVVHMDFVRTV4WVRGQ0xXdDJVeTE2WkRWRGEzbHBadz9vYz01",
+      "source": "구글뉴스",
+      "tag": "브릿지경제",
+      "title": "‘철없는 가전’⋯ 계절 경계 무너뜨린 음식물처리기·제습기·얼음정수기",
+      "summary": "브릿지경제에서 보도한 주방용품 & 리빙 아이디어 관련 이슈입니다.",
+      "date": "2026-09-01",
+      "category": "주방용품 & 리빙 아이디어",
+      "engagement": "출처: 브릿지경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBGV0dKaFNMQjJsdnlmV2NYejZnMWxfbjdCdUR6RWJ0T0huOWtnRGdHUUNqdjFRWkdTczJjR1NGSXlEOXNyUG01UE5xYTFCLWt2Uy16ZDVDa3lpZw?oc=5"
+    },
+    {
       "id": "rss-aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vcnNzL2FydGljbGVzL0NCTWlZRUZWWDNseFRFOUlURVpCUzFjemF5MWlhWEZuYkVnd2MwUjZVM0JsVjB0bk5YRjBOVWxsTjNwU1dGOVBNelZaYkRsbGRtVjBPR0ZmWmxSNFdHbHZTak5JVW10R2EyRjRTVTF1VUhWSE5rUnlUelZSZFdaWVRIa3dUWEpUVkZwQlRkSUJlRUZWWDNseFRGQlVPR2x3VDNkamNHcEVVRzUxYUc5S1ZXVmpTR2wzTVdkRVRuRTBiMUp6TVc1bFlrRTFhMDFNYzJ4c1ZsVnlPVGRmVlhaWlFUUklOV1ozV1U1b09HNXdUWHBtVVdndFprMVFWMkZpWm14WWRGaHdVbTB0WTA1UlNETmFiVEY2UVU1dFgyRlBZMkZDY21wRVVqWTBNRE5KYUE_b2M9NQ",
       "source": "구글뉴스",
       "tag": "뉴시스",
@@ -849,25 +915,36 @@
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1UbUVyWmk0a2lRbE9oVnJpZnNCSF85c1VrYTNhT0d4VDBJT1F6bXl0bWJ0ZWVNczNUbWRvdjJPX0NfLWV6VGk4QnZWc2hVeVV0RHM4ZWdEZWg?oc=5"
     },
     {
+      "id": "rss-aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vcnNzL2FydGljbGVzL0NCTWlZRUZWWDNseFRFOXlXUzFvTW14WFlWTjZXVnBCY0V0T1RteFFRWFZrWDJkTVdIWjRhVXgwZVVGQloxaHVZbkJ6YVdOT1ZVUkJRekF4V2xSRVMwdFNTRkpPWDNoNU16UTVRM05yYjJGSVNGZFVVbTVRVkZsTFdFOVlSSFZpY3pSUVdBP29jPTU",
+      "source": "구글뉴스",
+      "tag": "네이트",
+      "title": "롯데마트·슈퍼, 식품에 주방용품 결합…굿즈 상품 확대",
+      "summary": "네이트에서 보도한 주방용품 & 리빙 아이디어 관련 이슈입니다.",
+      "date": "2026-09-01",
+      "category": "주방용품 & 리빙 아이디어",
+      "engagement": "출처: 네이트",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9yWS1oMmxXYVN6WVpBcEtOTmxQQXVkX2dMWHZ4aUx0eUFBZ1huYnBzaWNOVURBQzAxWlRES0tSSFJOX3h5MzQ5Q3Nrb2FISFdUUm5QVFlLWE9YRHViczRQWA?oc=5"
+    },
+    {
       "id": "rss-aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vcnNzL2FydGljbGVzL0NCTWliRUZWWDNseFRGQkNRa1JRZURJNWVtOVdWME15UW13MVFsbFVXRkF4UWpWR05HdEhXVzV4V1hRNU5HWmhkbUZxU1V0MFYzVTNSa1k1VGkxSVJuUnJaV0ZTTkhsQ01VOWFVVGRXVWtFdFNIcHlkVjlKWW05eWJGbHpkM0JRTjNGNlVtOVlRM2N4VW5sMVFtOVJidz9vYz01",
       "source": "구글뉴스",
-      "tag": "굿모닝경제",
+      "tag": "goodkyung.com",
       "title": "CJ ONE, 네이버페이 제휴로 라이프스타일 영토 확장",
-      "summary": "굿모닝경제에서 보도한 라이프스타일 트렌드 & 팝업 관련 이슈입니다.",
+      "summary": "goodkyung.com에서 보도한 라이프스타일 트렌드 & 팝업 관련 이슈입니다.",
       "date": "2026-09-01",
       "category": "라이프스타일 트렌드 & 팝업",
-      "engagement": "출처: 굿모닝경제",
+      "engagement": "출처: goodkyung.com",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBCQkRQeDI5em9WV0MyQmw1QllUWFAxQjVGNGtHWW5xWXQ5NGZhdmFqSUt0V3U3RkY5Ti1IRnRrZWFSNHlCMU9aUTdWUkEtSHpydV9JYm9ybFlzd3BQN3F6Um9YQ3cxUnl1Qm9Rbw?oc=5"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vcnNzL2FydGljbGVzL0NCTWlYa0ZWWDNseFRGQkpZbXcxWmpGQ1lsbHVXa2xqYlZSNVUwZDJYMkU0VmxOSFZrRkVOVVJUZEdvd2RXdEpWVU5FZVZOTFJWcE5VVEIwV1VGS01VRjBNbFJJTVROU1dHaFRXRzVvTTNSMVNXMUJPVTlwVWpBNVpIbEJaek5HTFdmU0FXTkJWVjk1Y1V4UGFYVldaaTFTYUhaa1pWTTRNVE15U2pKSmRIVlZlVGxSTTBaTE1sSlVaWEZTVFRsR04yMWFaMVJOWnpkVmNIcG5WRVI0VXpsWmQweG5hRVZIWDJreVlsbE9UblJ2UkZabGFXeEdiVXMyVm5oSGVFWnBRWFJLYm1Ka1NWVT9vYz01",
       "source": "구글뉴스",
-      "tag": "sports.khan.co.kr",
+      "tag": "스포츠경향",
       "title": "던킨 ‘할머니학화호도과자’ 협업 신제품 출시",
-      "summary": "sports.khan.co.kr에서 보도한 라이프스타일 트렌드 & 팝업 관련 이슈입니다.",
+      "summary": "스포츠경향에서 보도한 라이프스타일 트렌드 & 팝업 관련 이슈입니다.",
       "date": "2026-09-01",
       "category": "라이프스타일 트렌드 & 팝업",
-      "engagement": "출처: sports.khan.co.kr",
+      "engagement": "출처: 스포츠경향",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBJYmw1ZjFCYlluWkljbVR5U0d2X2E4VlNHVkFENURTdGowdWtJVUNEeVNLRVpNUTB0WUFKMUF0MlRIMTNSWGhTWG5oM3R1SW1BOU9pUjA5ZHlBZzNGLWfSAWNBVV95cUxPaXVWZi1SaHZkZVM4MTMySjJJdHVVeTlRM0ZLMlJUZXFSTTlGN21aZ1RNZzdVcHpnVER4UzlZd0xnaEVHX2kyYllOTnRvRFZlaWxGbUs2VnhHeEZpQXRKbmJkSVU?oc=5"
     },
     {
@@ -1023,84 +1100,7 @@
       "category": "홈케어 & 위생/청소",
       "engagement": "작성: 조은아 기자",
       "link": "https://foodrecipe.co.kr/life/wallpaper-mold-removal-causes-prevention/"
-    },
-    {
-      "id": "rss-aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vcnNzL2FydGljbGVzL0NCTWliMEZWWDNseFRFNVBOVlJTYlhkYVgzY3RiMlpIYzFoT1RVRlhjVlIxWVZaemFrRlpkbXRzUkRabWJHVXhSMFpRT1hWcWMwVm1kMnA2U1UxVWFHeHFZelF5VmtkdVlqRTFiVXh3VFhNME5tUlpYM05hZUdNNFVrZENRVk5ZTkRGTVJXRlZNMlJHUWs5bWNEZHBkbEZHZDlJQmMwRlZYM2x4VEZCQloxcFNVMWhIZW1wRFF6TnFOa0pLYUhWMlRYVkROVzFYVEdRM1NXWjFObWxGYTBsSVFXODJZMkZrZVRsNFJ6QTRkelpaY0UweFUxazBPWFl4TlVaVVQzQnhNbTFJZVRGT2FqSkhXRWhYYlROdmNUVmxkVXhKVlc5amIyeG5OMjVtYlcxWmJERmpaMUkwVkRRP29jPTU",
-      "source": "구글뉴스",
-      "tag": "아던트뉴스",
-      "title": "\"세탁망에 넣으면 다 안전한 줄 알았는데\"… 오히려 '이 소재'는 세탁기까지 망가뜨립니다",
-      "summary": "아던트뉴스에서 보도한 패브릭 & 의류 케어 관련 이슈입니다.",
-      "date": "2026-08-31",
-      "category": "패브릭 & 의류 케어",
-      "engagement": "출처: 아던트뉴스",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5PNVRSbXdaX3ctb2ZHc1hOTUFXcVR1YVZzakFZdmtsRDZmbGUxR0ZQOXVqc0Vmd2p6SU1UaGxqYzQyVkduYjE1bUxwTXM0NmRZX3NaeGM4UkdCQVNYNDFMRWFVM2RGQk9mcDdpdlFGd9IBc0FVX3lxTFBBZ1pSU1hHempDQzNqNkJKaHV2TXVDNW1XTGQ3SWZ1NmlFa0lIQW82Y2FkeTl4RzA4dzZZcE0xU1k0OXYxNUZUT3BxMm1IeTFOajJHWEhXbTNvcTVldUxJVW9jb2xnN25mbW1ZbDFjZ1I0VDQ?oc=5"
-    },
-    {
-      "id": "rss-aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vcnNzL2FydGljbGVzL0NCTWlia0ZWWDNseFRGQnFNMFJvUTJ4dFpYZ3pORXhFWm5WNGRHdHFVVEZIVlVsbGNHOVRWbE5YUjJGUFpsSnVlV1poVTJKSmNreHlUekU1ZEhwblNWQnlTR3huYjBaNFJVZDRhRFZyVW1ocFNIcG1RbUZqVkdvMVdWZDVYMWR3VFdOVk9WcEViWEJ4UzNFd1RUSnFVemhCP29jPTU",
-      "source": "구글뉴스",
-      "tag": "한산신문",
-      "title": "중앙동, ‘빨래‧위생특공대’취약계층 이불 세탁 봉사",
-      "summary": "한산신문에서 보도한 패브릭 & 의류 케어 관련 이슈입니다.",
-      "date": "2026-08-31",
-      "category": "패브릭 & 의류 케어",
-      "engagement": "출처: 한산신문",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBqM0RoQ2xtZXgzNExEZnV4dGtqUTFHVUllcG9TVlNXR2FPZlJueWZhU2JJckxyTzE5dHpnSVBySGxnb0Z4RUd4aDVrUmhpSHpmQmFjVGo1WVd5X1dwTWNVOVpEbXBxS3EwTTJqUzhB?oc=5"
-    },
-    {
-      "id": "rss-aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vcnNzL2FydGljbGVzL0NCTWlhMEZWWDNseFRGQjNWMkZPWDFOalNHcENOa05VT0dodFgwUTFOMEZXZFcxMWFrcERRelJ0UjFoTWNYVlFiekpVYzJwdVpsRkdja1poWWtSd1R6VjRNMjF5TlVGTVVXY3pSMWxYUm1sQ1NsSjFaR1JrYWtWTFkwSmliMXBaYW5VNE9VNTRNa2hIZEZkSmVVNUo_b2M9NQ",
-      "source": "구글뉴스",
-      "tag": "knnews.co.kr",
-      "title": "“가전 마케팅의 변신”…LG전자, 세탁건조기 가상 아이돌 공개",
-      "summary": "knnews.co.kr에서 보도한 패브릭 & 의류 케어 관련 이슈입니다.",
-      "date": "2026-08-31",
-      "category": "패브릭 & 의류 케어",
-      "engagement": "출처: knnews.co.kr",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB3V2FOX1NjSGpCNkNUOGhtX0Q1N0FWdW11akpDQzRtR1hMcXVQbzJUc2puZlFGckZhYkRwTzV4M21yNUFMUWczR1lXRmlCSlJ1ZGRkakVLY0Jib1pZanU4OU54MkhHdFdJeU5J?oc=5"
-    },
-    {
-      "id": "rss-aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vcnNzL2FydGljbGVzL0NCTWliMEZWWDNseFRFMVhiV3d4Y0c4eFZua3lSbU5OVVhkNlgxWlJVRkk1Umxab2NDMXRWRmxKV25VNVVsYzJVbEZ6TVhwdGVUQmliazFTWkZrNGFXRk9SWEZCU1hFMk9XbENXV1ZqUTBSNWNEVXRhRU53ZEZKT05qZEhVMjlEUjJKV1VHdG9NbmxTVTBkSldrMHdjMlJ5ZDlJQmMwRlZYM2x4VEUxRFlWaHFjWFZZTTJ4T2NsSm1hbUZGYW1aZlJuUTFOekpmY1VwZk9ERXhhVmR3U3pJMlMwOWtkVU5HVld0MVdIcDVRVmg0WW5wb1NrOVVZa1kyUkhBdGNEaFpORTlDWVhCWFUySTRjRXBMVFhGaGVrazJiM0JxZDBORlptOTRTVFF0ZFVST1IyZzJMVkkwWjFVP29jPTU",
-      "source": "구글뉴스",
-      "tag": "아던트뉴스",
-      "title": "\"세탁기 표준 모드만 돌리지 마세요\"... '이 버튼' 누르면 빨래 찌든때 다 빠집니다",
-      "summary": "아던트뉴스에서 보도한 패브릭 & 의류 케어 관련 이슈입니다.",
-      "date": "2026-08-31",
-      "category": "패브릭 & 의류 케어",
-      "engagement": "출처: 아던트뉴스",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1XbWwxcG8xVnkyRmNNUXd6X1ZRUFI5RlZocC1tVFlJWnU5Ulc2UlFzMXpteTBibk1SZFk4aWFORXFBSXE2OWlCWWVjQ0R5cDUtaENwdFJONjdHU29DR2JWUGtoMnlSU0dJWk0wc2Ryd9IBc0FVX3lxTE1DYVhqcXVYM2xOclJmamFFamZfRnQ1NzJfcUpfODExaVdwSzI2S09kdUNGVWt1WHp5QVh4YnpoSk9UYkY2RHAtcDhZNE9CYXBXU2I4cEpLTXFhekk2b3Bqd0NFZm94STQtdUROR2g2LVI0Z1U?oc=5"
-    },
-    {
-      "id": "rss-aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vcnNzL2FydGljbGVzL0NCTWlhMEZWWDNseFRFMVhabU5tYWt0VWEyc3hibFJmY0VFelYwcHRWREJYWlVKcFpsOVJjM2hMYWpZelZGOTFjVk5DY1VzeU9IcExVVGwwV0hwSlZUaG9ZazFRZURndGNWOWxZMk5JYkhac01rMXNibTU2YUZodVNFcHpSMmxEVmpBMlUySTFkRU5NVlZkeE0wTnI_b2M9NQ",
-      "source": "구글뉴스",
-      "tag": "팔당유역신문",
-      "title": "빨래 수거·세탁·배달까지…용인 어르신 28명 새 일터 생겼다",
-      "summary": "팔당유역신문에서 보도한 패브릭 & 의류 케어 관련 이슈입니다.",
-      "date": "2026-08-31",
-      "category": "패브릭 & 의류 케어",
-      "engagement": "출처: 팔당유역신문",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1XZmNmaktUa2sxblRfcEEzV0ptVDBXZUJpZl9Rc3hLajYzVF91cVNCcUsyOHpLUTl0WHpJVThoYk1QeDgtcV9lY2NIbHZsMk1sbm56aFhuSEpzR2lDVjA2U2I1dENMVVdxM0Nr?oc=5"
-    },
-    {
-      "id": "rss-aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vcnNzL2FydGljbGVzL0NCTWlTMEZWWDNseFRGQXlkR3hMZVU1bmVrTkhSRWxwVERjMFNUSjRkREJsUkVwYVIxUlZTMnRuVlhST1MwWkVjMGR2U0dGaVJESk5iR2ROV1dwMFZqQllSM0F3WW1vNFMxcFpXV05MTkE_b2M9NQ",
-      "source": "구글뉴스",
-      "tag": "v.daum.net",
-      "title": "LG전자, 세탁건조기 알릴 5인조 그룹 '에이아이돌' 공개",
-      "summary": "v.daum.net에서 보도한 패브릭 & 의류 케어 관련 이슈입니다.",
-      "date": "2026-08-31",
-      "category": "패브릭 & 의류 케어",
-      "engagement": "출처: v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFAydGxLeU5nekNHRElpTDc0STJ4dDBlREpaR1RVS2tnVXROS0ZEc0dvSGFiRDJNbGdNWWp0VjBYR3AwYmo4S1pZWWNLNA?oc=5"
-    },
-    {
-      "id": "rss-aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vcnNzL2FydGljbGVzL0NCTWlkRUZWWDNseFRFMWtOSEY1Umt3MVFuWjNVR00yZWtKM09GTjRTV1k0WldSQmNVWXhiSFpwTmt0aVoyeDZjRTVHZG5WTmVVbHhibVZ5ZFZkNlMyczBSSGh6TjFScVN5MXZNMXBrWkdkNlpIaDZhVVZHTTB4bVQxQlJXRXRxU25RME9GOXpSWEJPZWpCU1ZqVnJTSFZoWm13d1JHTnY_b2M9NQ",
-      "source": "구글뉴스",
-      "tag": "부산일보",
-      "title": "서구 초장동 적십자봉사회, 행복 나눔 세탁 봉사 실시",
-      "summary": "부산일보에서 보도한 패브릭 & 의류 케어 관련 이슈입니다.",
-      "date": "2026-08-31",
-      "category": "패브릭 & 의류 케어",
-      "engagement": "출처: 부산일보",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1kNHF5Rkw1QnZ3UGM2ekJ3OFN4SWY4ZWRBcUYxbHZpNktiZ2x6cE5GdnVNeUlxbmVydVd6S2s0RHhzN1RqSy1vM1pkZGd6ZHh6aUVGM0xmT1BRWEtqSnQ0OF9zRXBOejBSVjVrSHVhZmwwRGNv?oc=5"
     }
   ],
-  "generatedAt": "2026-09-02T08:45:36.580Z"
+  "generatedAt": "2026-09-02T09:08:43.501Z"
 }
